@@ -6,8 +6,7 @@ var CACHE_NAME = APP_PREFIX + VERSION;
 var URLS = [                            
     "/dw-srd-offline/",
     "/dw-srd-offline/index.html",
-    "/dw-srd-offline/bundle.js",
-    "/dw-srd-offline/style.css",
+    "/dw-srd-offline/styles.css",
     "/dw-srd-offline/logo.png"
 ];
 
