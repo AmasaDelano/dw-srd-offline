@@ -1,11 +1,11 @@
 self.addEventListener("install", (e) => {
     e.waitUntil(
         caches.open("dw-store").then((cache) => cache.addAll([
-            "/",
-            "/index.html",
-            "/bundle.js",
-            "/style.css",
-            "/logo.png",
+            "/dw-srd-offline/",
+            "/dw-srd-offline/index.html",
+            "/dw-srd-offline/bundle.js",
+            "/dw-srd-offline/style.css",
+            "/dw-srd-offline/logo.png",
             ])),
         );
     });
