@@ -14,7 +14,13 @@
     <div id="root">
       <p class="loading">Loading...</p>
     </div>
-    <script src="./bundle.js"></script>
-    <script src="./sw.js"></script>
+    <!-- <script src="./bundle.js"></script> -->
+    <script>
+      if ("serviceWorker" in navigator) {
+          navigator.serviceWorker
+              .register("/dw-srd-offline/sw.js", {scope: "/dw-srd-offline/"})
+              .then(() => { console.log("Service Worker Registered"); });
+      }
+    </script>
   </body>
 </html>
