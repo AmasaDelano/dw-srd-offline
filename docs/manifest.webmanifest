@@ -11,6 +11,7 @@
     ],
     "name": "Dungeon World SRD",
     "short_name": "DW SRD",
-    "start_url": "/dw-srd-offline/index.html"
-  }
+    "start_url": "./",
+    "scope": "."
+}
   
