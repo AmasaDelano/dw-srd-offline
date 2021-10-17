@@ -3,7 +3,7 @@ var path = require('path');
 module.exports = {
 
     // Environment mode
-    mode: "development",
+    mode: "production",
 
     // Entry point of app
     entry: "./src/index.js",

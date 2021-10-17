@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --config ./webpack.config.js"
+    "start": "webpack-dev-server --config ./webpack.config.js",
+    "build": "webpack --config ./webpack.config.js --watch --mode production"
   },
   "dependencies": {
     "vue": "^3.2.20"
