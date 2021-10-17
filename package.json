@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js"
+  },
+  "dependencies": {
+    "vue": "^3.2.20"
+  },
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  }
+}

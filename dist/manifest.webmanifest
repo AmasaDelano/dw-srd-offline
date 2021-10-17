@@ -1,0 +1,16 @@
+{
+    "background_color": "purple",
+    "description": "Dungeon World SRD for offline access",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Dungeon World SRD",
+    "short_name": "DW SRD",
+    "start_url": "/index.html"
+  }
+  
