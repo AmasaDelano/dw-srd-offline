@@ -1,4 +1,4 @@
-
+<!-- Author: Alex Leone -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,6 +14,28 @@
     <div id="root">
       <p class="loading">Loading...</p>
     </div>
+    <template id="main">
+      <div class="left-bar">
+        <ul>
+          <dw-bookmark
+            v-for="section in sections"
+            v-bind:section="section"
+            v-on:selected="select($event.markdown, $event.id)"></dw-bookmark>
+        </ul>
+      </div>
+      <div class="main-content" v-html="markdown"></div>
+    </template>
+    <template id="dw-bookmark">
+      <li>
+        <span v-on:click.self="select(section)">{{ section.name }}</span>
+        <ul v-if="hasSubsections">
+          <dw-bookmark
+              v-for="subsection in section.subsections"
+              v-bind:section="subsection"
+              v-on:selected="select($event)"></dw-bookmark>
+        </ul>
+      </li>
+    </template>
     <script src="bundle.js"></script>
   </body>
 </html>

@@ -1,4 +1,4 @@
-var path = require('path');
+var path = require("path");
 
 module.exports = {
 
@@ -12,6 +12,30 @@ module.exports = {
         path: path.resolve(__dirname, "docs"),
         filename: "bundle.js",
         publicPath: "/"
+    },
+
+    module: {
+        rules: [
+            {
+                test: /\.md$/,
+                use: [
+                    {
+                        loader: "html-loader"
+                    },
+                    {
+                        loader: "markdown-loader",
+                        options: {
+                            "gfm": true,
+                            "breaks": true
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    performance : {
+        hints : false
     },
 
     devServer: {
