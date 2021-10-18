@@ -111,4 +111,3 @@ NPCs bring the world to life. If every monster does nothing more than attack and
 Once you’re done with the first session take some time to relax. Let ideas ferment. Don’t rush into the next session.
 
 Once you’ve had some time to relax and think over the first session it’s time to prepare for the next session. Preparing for the second session takes a few minutes, maybe an hour if this is your first time. You’ll create fronts, maybe make some monsters or custom moves, and generally get an idea of what is going on in the world.
-
