@@ -68,7 +68,7 @@ When you **petition your deity according to the precept of your religion**, you 
 
 ### Turn Undead
 
-When you **hold your holy symbol aloft and call on your deity for protection**, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.
+When you **hold your holy symbol aloft and call on your deity for protection**, roll+WIS. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.
 
 ### Commune
 
@@ -80,7 +80,7 @@ When you **spend uninterrupted time \(an hour or so\) in quiet communion with yo
 
 ### Cast a Spell
 
-When you **unleash a spell granted to you by your deity**, roll+Wis. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:
+When you **unleash a spell granted to you by your deity**, roll+WIS. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:
 
 - You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
 - Your casting distances you from your deity—take -1 ongoing to cast a spell until the next time you commune.
@@ -106,7 +106,7 @@ Harm another to prove the superiority of your church or god.
 
 ## Gear
 
-Your load is 10+Str. You carry dungeon rations \(5 uses, 1 weight\) and some symbol of the divine, describe it \(0 weight\). Choose your defenses:
+Your load is 10+STR. You carry dungeon rations \(5 uses, 1 weight\) and some symbol of the divine, describe it \(0 weight\). Choose your defenses:
 
 - Chainmail \(1 armor, 1 weight\)
 - Shield \(+1 armor, 2 weight\)

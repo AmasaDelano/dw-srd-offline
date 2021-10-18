@@ -2,11 +2,11 @@
 
 ## Hack and Slash
 
-When you **attack an enemy in melee**, roll+Str. On a 10+ you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+When you **attack an enemy in melee**, roll+STR. On a 10+ you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
 
 ## Volley
 
-When you **take aim and shoot at an enemy at range**, roll+Dex. On a 10+ you have a clear shot—deal your damage. On a 7–9, choose one \(whichever you choose you deal your damage\):
+When you **take aim and shoot at an enemy at range**, roll+DEX. On a 10+ you have a clear shot—deal your damage. On a 7–9, choose one \(whichever you choose you deal your damage\):
 
 - You have to move to get the shot placing you in danger of the GM’s choice
 - You have to take what you can get: -1d6 damage
@@ -16,18 +16,18 @@ When you **take aim and shoot at an enemy at range**, roll+Dex. On a 10+ you hav
 
 When you **act despite an imminent threat** or **suffer a calamity**, say how you deal with it and roll. If you do it…
 
-- …by powering through, +Str
-- …by getting out of the way or acting fast, +Dex
-- …by enduring, +Con
-- …with quick thinking, +Int
-- …through mental fortitude, +Wis
-- …using charm and social grace, +Cha
+- …by powering through, +STR
+- …by getting out of the way or acting fast, +DEX
+- …by enduring, +CON
+- …with quick thinking, +INT
+- …through mental fortitude, +WIS
+- …using charm and social grace, +CHA
 
 On a 10+, you do what you set out to, the threat doesn’t come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.
 
 ## Defend
 
-When you **stand in defense of a person, item, or location** under attack, roll+Con. On a 10+, hold 3. On a 7–9, hold 1. So long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
+When you **stand in defense of a person, item, or location** under attack, roll+CON. On a 10+, hold 3. On a 7–9, hold 1. So long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
 
 - Redirect an attack from the thing you defend to yourself
 - Halve the attack’s effect or damage
@@ -36,11 +36,11 @@ When you **stand in defense of a person, item, or location** under attack, roll+
 
 ## Spout Lore
 
-When you **consult your accumulated knowledge about something**, roll+Int. On a 10+ the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7–9 the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
+When you **consult your accumulated knowledge about something**, roll+INT. On a 10+ the GM will tell you something interesting and useful about the subject relevant to your situation. On a 7–9 the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
 
 ## Discern Realities
 
-When you **closely study a situation or person**, roll+Wis. On a 10+ ask the GM 3 questions from the list below. On a 7–9 ask 1. Take +1 forward when acting on the answers.
+When you **closely study a situation or person**, roll+WIS. On a 10+ ask the GM 3 questions from the list below. On a 7–9 ask 1. Take +1 forward when acting on the answers.
 
 - What happened here recently?
 - What is about to happen?
@@ -51,7 +51,7 @@ When you **closely study a situation or person**, roll+Wis. On a 10+ ask the GM 
 
 ## Parley
 
-When you **you have leverage on a GM character and manipulate them**, roll+Cha. Leverage is something they need or want. On a hit they ask you for something and do it if you make them a promise first. On a 7–9, they need some concrete assurance of your promise, right now.
+When you **you have leverage on a GM character and manipulate them**, roll+CHA. Leverage is something they need or want. On a hit they ask you for something and do it if you make them a promise first. On a 7–9, they need some concrete assurance of your promise, right now.
 
 ## Aid or Interfere
 
@@ -73,11 +73,11 @@ When you **settle in to rest** consume a ration. If you’re somewhere dangerous
 
 ## Take Watch
 
-When you **you’re on watch and something approaches the camp** roll+Wis. On a 10+ you’re able to wake the camp and prepare a response, the camp takes +1 forward. On a 7–9 you react just a moment too late; the camp is awake but hasn’t had time to prepare. You have weapons and armor but little else. On a miss whatever lurks outside the campfire’s light has the drop on you.
+When you **you’re on watch and something approaches the camp** roll+WIS. On a 10+ you’re able to wake the camp and prepare a response, the camp takes +1 forward. On a 7–9 you react just a moment too late; the camp is awake but hasn’t had time to prepare. You have weapons and armor but little else. On a miss whatever lurks outside the campfire’s light has the drop on you.
 
 ## Undertake a Perilous Journey
 
-When you travel through hostile territory, choose one member of the party to act as trailblazer, one to scout ahead, and one to be quartermaster \(the same character cannot have two jobs\). If you don’t have enough party members or choose not to assign a job, treat that job as if it had rolled a 6. Each character with a job to do rolls+Wis. On a 10+ the quartermaster reduces the number of rations required by one. On a 10+ the trailblazer reduces the amount of time it takes to reach your destination \(the GM will say by how much\). On a 10+ the scout will spot any trouble quick enough to let you get the drop on it. On a 7–9 each roles performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.
+When you travel through hostile territory, choose one member of the party to act as trailblazer, one to scout ahead, and one to be quartermaster \(the same character cannot have two jobs\). If you don’t have enough party members or choose not to assign a job, treat that job as if it had rolled a 6. Each character with a job to do rolls+WIS. On a 10+ the quartermaster reduces the number of rations required by one. On a 10+ the trailblazer reduces the amount of time it takes to reach your destination \(the GM will say by how much\). On a 10+ the scout will spot any trouble quick enough to let you get the drop on it. On a 7–9 each roles performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.
 
 ## Level Up
 
@@ -108,7 +108,7 @@ When you **return triumphant and throw a big party**, spend 100 coin and roll + 
 
 ## Supply
 
-When you **go to buy something with gold on hand**, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+Cha. On a 10+ you find what you’re looking for at a fair price. On a 7–9 you’ll have to pay more or settle for something similar.
+When you **go to buy something with gold on hand**, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+CHA. On a 10+ you find what you’re looking for at a fair price. On a 7–9 you’ll have to pay more or settle for something similar.
 
 ## Recover
 
@@ -126,7 +126,7 @@ If you have a useful reputation around these parts take an additional +1. On a 1
 
 ## Outstanding Warrants
 
-When you **return to a civilized place in which you’ve caused trouble before**, roll+Cha. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:
+When you **return to a civilized place in which you’ve caused trouble before**, roll+CHA. On a hit, word has spread of your deeds and everyone recognizes you. On a 7–9, that, and, the GM chooses a complication:
 
 - The local constabulary has a warrant out for your arrest
 - Someone has put a price on your head

@@ -117,7 +117,7 @@ Which stat applies depends on what action you take and your action has to trigge
 
 > GM: Emory, as you climb up the side of the ravine you spy a cultist on a ledge nearby who evokes a frost spell and covers the side of the cliff with ice\! If you want to keep climbing, you need to defy danger or you’ll fall.
 >
-> Emory: No way, I am too tough. I grit my teeth and dig my nails into the wall, climbing one hand at a time. I’m using Con, okay? I got an 8, though…
+> Emory: No way, I am too tough. I grit my teeth and dig my nails into the wall, climbing one hand at a time. I’m using CON, okay? I got an 8, though…
 >
 > GM: Hmm, well, I think the only way you can gain any traction, tough guy, is if you use your dagger to pull yourself up the last few feet. It’s going to be lodged in there until you have some time to pull it loose and there’s an angry spellcaster nearby.
 >

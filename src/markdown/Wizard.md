@@ -60,9 +60,9 @@ When you **spend uninterrupted time \(an hour or so\) in quiet contemplation of 
 - Prepare new spells of your choice from your spellbook whose total levels don’t exceed your own level+1.
 - Prepare your cantrips which never count against your limit.
 
-### Cast a Spell \(Int\)
+### Cast a Spell \(INT\)
 
-When you **release a spell you’ve prepared**, roll+Int. ✴On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. ✴On a 7-9, the spell is cast, but choose one:
+When you **release a spell you’ve prepared**, roll+INT. ✴On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. ✴On a 7-9, the spell is cast, but choose one:
 
 - You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
 - The spell disturbs the fabric of reality as it is cast—take -1 ongoing to cast a spell until the next time you Prepare Spells.
@@ -104,7 +104,7 @@ Use magic to cause terror and fear.
 
 ## Gear
 
-Your load is 7+Str. You start with your spellbook \(1 weight\) and dungeon rations \(5 uses, 1 weight\). Choose your defenses:
+Your load is 7+STR. You start with your spellbook \(1 weight\) and dungeon rations \(5 uses, 1 weight\). Choose your defenses:
 
 - Leather armor \(1 armor, 1 weight\)
 - Bag of books \(5 uses, 2 weight\) and 3 healing potions
@@ -170,7 +170,7 @@ As long as you have at least one prepared spell of first level or higher, you ha
 
 ### Counterspell
 
-When you **attempt to counter an arcane spell that will otherwise affect you**, stake one of your prepared spells on the defense and roll+Int. ✴On a 10+, the spell is countered and has no effect on you. ✴On a 7-9, the spell is countered and you forget the spell you staked. Your counterspell protects only you; if the countered spell has other targets they get its effects.
+When you **attempt to counter an arcane spell that will otherwise affect you**, stake one of your prepared spells on the defense and roll+INT. ✴On a 10+, the spell is countered and has no effect on you. ✴On a 7-9, the spell is countered and you forget the spell you staked. Your counterspell protects only you; if the countered spell has other targets they get its effects.
 
 ### Quick Study
 
@@ -203,7 +203,7 @@ When you have time and safety with a magic item in a place of power you can empo
 
 Replaces: Logical
 
-When you **use strict deduction to analyze your surroundings**, you can discern realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.
+When you **use strict deduction to analyze your surroundings**, you can discern realities with INT instead of WIS. On a 12+ you get to ask the GM any three questions, not limited by the list.
 
 ### Arcane Armor
 

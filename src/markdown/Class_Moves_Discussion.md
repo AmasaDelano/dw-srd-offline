@@ -128,5 +128,5 @@ In some cases the GM may choose the last option more than once to list each unex
 
 ## Summon Monster
 
-The exact type of monster you get is up to the GM, based on your choices. If you want a non-reckless swimming creature you might get a water elemental, a 1d8 damage +2 Str creature might be a barbed devil. Whatever the creature is you still get to play it.
+The exact type of monster you get is up to the GM, based on your choices. If you want a non-reckless swimming creature you might get a water elemental, a 1d8 damage +2 STR creature might be a barbed devil. Whatever the creature is you still get to play it.
 

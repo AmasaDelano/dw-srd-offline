@@ -40,7 +40,7 @@ When you **pray for guidance, even for a moment, and ask, “What here is evil?�
 
 You start with these moves:
 
-### Lay on Hands \(Cha\)
+### Lay on Hands \(CHA\)
 
 When you **touch someone, skin to skin, and pray for their well-being **, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.
 
@@ -50,7 +50,7 @@ You ignore the clumsy tag on armor you wear.
 
 ### I Am the Law
 
-When you **give an NPC an order based on your divine authority**, roll+Cha. ✴On a 7+, they choose one:
+When you **give an NPC an order based on your divine authority**, roll+CHA. ✴On a 7+, they choose one:
 
 - Do what you say
 - Back away cautiously, then flee
@@ -98,7 +98,7 @@ Endanger yourself to protect someone weaker than you.
 
 ## Gear
 
-Your load is 12+Str. You start with dungeon rations \(5 uses, 1 weight\), scale armor \(2 armor, 3 weight\), and some mark of faith, describe it \(0 weight\). Choose your weapon:
+Your load is 12+STR. You start with dungeon rations \(5 uses, 1 weight\), scale armor \(2 armor, 3 weight\), and some mark of faith, describe it \(0 weight\). Choose your weapon:
 
 - Halberd \(reach, +1 damage, two-handed, 2 weight\)
 - Long sword \(close, +1 damage, 1 weight\) and shield \(+1 armor, 2 weight\)

@@ -53,7 +53,7 @@ When you** weave a performance into a basic spell**, choose an ally and an effec
 - Their mind is shaken clear of one enchantment
 - The next time someone successfully assists the target with aid, they get +2 instead of +1
 
-Then roll+Cha. ✴On a 10+, the ally gets the selected effect. ✴On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM’s choice.
+Then roll+CHA. ✴On a 10+, the ally gets the selected effect. ✴On a 7-9, your spell still works, but you draw unwanted attention or your magic reverberates to other targets affecting them as well, GM’s choice.
 
 ### Bardic Lore
 
@@ -101,7 +101,7 @@ Spur others to significant and unplanned decisive action.
 
 ## Gear
 
-Your load is 9+Str. You have dungeon rations \(5 uses, 1 weight\). Choose one instrument, all are 0 weight for you:
+Your load is 9+STR. You have dungeon rations \(5 uses, 1 weight\). Choose one instrument, all are 0 weight for you:
 
 - Your father’s mandolin, repaired
 - A fine lute, a gift from a noble
@@ -157,11 +157,11 @@ When you **grant bonus damage with arcane art**, you grant an extra +1d4 damage.
 
 ### It Goes To Eleven
 
-When you **unleash a crazed performance** \(a righteous lute solo or mighty brass blast, maybe\) choose a target who can hear you and roll+Cha. ✴On a 10+ the target attacks their nearest ally in range. ✴On a 7–9 they attack their nearest ally, but you also draw their attention and ire.
+When you **unleash a crazed performance** \(a righteous lute solo or mighty brass blast, maybe\) choose a target who can hear you and roll+CHA. ✴On a 10+ the target attacks their nearest ally in range. ✴On a 7–9 they attack their nearest ally, but you also draw their attention and ire.
 
 ### Metal Hurlant
 
-When you **shout with great force or play a shattering note** choose a target and roll+Con. ✴On a 10+ the target takes 1d10 damage and is deafened for a few minutes. ✴On a 7–9 you still damage your target, but it’s out of control: the GM will choose an additional target nearby.
+When you **shout with great force or play a shattering note** choose a target and roll+CON. ✴On a 10+ the target takes 1d10 damage and is deafened for a few minutes. ✴On a 7–9 you still damage your target, but it’s out of control: the GM will choose an additional target nearby.
 
 ### A Little Help From My Friends
 
@@ -207,7 +207,7 @@ When you **meet someone you’ve met before** \(your call\) after some time apar
 
 ### Reputation
 
-When you **first meet someone who’s heard songs about you**, roll+Cha. ✴On a 10+, tell the GM two things they’ve heard about you. ✴On a 7-9, tell the GM one thing they’ve heard, and the GM tells you one thing.
+When you **first meet someone who’s heard songs about you**, roll+CHA. ✴On a 10+, tell the GM two things they’ve heard about you. ✴On a 7-9, tell the GM one thing they’ve heard, and the GM tells you one thing.
 
 ### Eldritch Chord
 
@@ -229,7 +229,7 @@ Replaces: Duelist’s Parry
 
 When you hack and slash, you take +2 armor forward.
 
-### Con
+### CON
 
 Replaces: Bamboozle
 

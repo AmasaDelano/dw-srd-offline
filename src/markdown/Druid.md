@@ -76,7 +76,7 @@ The grunts, barks, chirps, and calls of the creatures of the wild are as languag
 
 ### Shapeshifter
 
-When you call upon the spirits to change your shape, roll+Wis. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a miss hold 1 in addition to whatever the GM says.
+When you call upon the spirits to change your shape, roll+WIS. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a miss hold 1 in addition to whatever the GM says.
 
 You may take on the physical form of any species whose essence you have studied or who lives in your land: you and your possessions meld into a perfect copy of the species’ form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to your natural form. At any time, you may spend all your hold and revert to your natural form.
 
@@ -102,7 +102,7 @@ Eliminate an unnatural menace.
 
 ## Gear
 
-Your load is 6+Str. You carry some token of your land, describe it. Choose your defenses:
+Your load is 6+STR. You carry some token of your land, describe it. Choose your defenses:
 
 - Hide armor \(1 armor, 1 weight\)
 - Wooden shield \(+1 armor, 1 weight\) Choose your armament:
@@ -142,7 +142,7 @@ When you **are in an appropriate animal form** \(something dangerous\) increase 
 
 ### Communion of Whispers
 
-When **you spend time in a place, making note of its resident spirits and calling on the spirits of the land**, roll+Wis. You will be granted a vision of significance to you, your allies, and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7–9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening, or traumatizing. The GM will describe it. Take -1 forward.
+When **you spend time in a place, making note of its resident spirits and calling on the spirits of the land**, roll+WIS. You will be granted a vision of significance to you, your allies, and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7–9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening, or traumatizing. The GM will describe it. Take -1 forward.
 
 ### Barkskin
 
@@ -166,7 +166,7 @@ When you shapeshift choose a stat: you take +1 ongoing to rolls using that stat 
 
 ### Elemental Mastery
 
-When you **call on the primal spirits of fire, water, earth or air to perform a task for you** roll+Wis. ✴On a 10+ choose two. ✴On a 7–9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.
+When you **call on the primal spirits of fire, water, earth or air to perform a task for you** roll+WIS. ✴On a 10+ choose two. ✴On a 7–9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.
 
 - The effect you desire comes to pass
 - You avoid paying nature’s price 

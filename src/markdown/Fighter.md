@@ -60,7 +60,7 @@ You start with these moves:
 
 ### Bend Bars, Lift Gates
 
-When you **use pure strength to destroy an inanimate obstacle**, roll+Str. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.
+When you **use pure strength to destroy an inanimate obstacle**, roll+STR. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.
 
 - It doesn’t take a very long time
 - Nothing of value is damaged
@@ -127,7 +127,7 @@ Kill a defenseless or surrendered enemy.
 
 ## Gear
 
-Your load is 12+Str. You carry your signature weapon and dungeon rations \(5 uses, 1 weight\). Choose your defenses:
+Your load is 12+STR. You carry your signature weapon and dungeon rations \(5 uses, 1 weight\). Choose your defenses:
 
 - Chainmail \(1 armor, 1 weight\) and adventuring gear \(1 weight\)
 - Scale armor \(2 armor, 3 weight\)

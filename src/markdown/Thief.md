@@ -96,7 +96,7 @@ Shift danger or blame from yourself to someone else.
 
 ## Gear
 
-Your load is 9+Str. You start with dungeon rations \(5 uses, 1 weight\), leather armor \(1 armor, 1 weight\), 3 uses of your chosen poison, and 10 coins. Choose your arms:
+Your load is 9+STR. You start with dungeon rations \(5 uses, 1 weight\), leather armor \(1 armor, 1 weight\), 3 uses of your chosen poison, and 10 coins. Choose your arms:
 
 - Dagger \(hand, 1 weight\) and short sword \(close, 1 weight\)
 - Rapier \(close, precise, 1 weight\)

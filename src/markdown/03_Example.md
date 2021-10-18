@@ -8,7 +8,7 @@
 >
 > Isaac jumps into the action first. “There’s enough shadows at the edges of the chamber to hide in?” “Yeah,” I say, “the goblins aren’t much for lighting apparently. The edges of the chamber just kind of disappear into crumbling walls, rubble, and gloom.” “Great\! I’m going over here, the side where the sneaky ones went. Omar glances over his shoulders, pulls up his hood over his head, and ducks into the shadows. I’m going to pop out of the shadows right here, where the torches illuminate the sacrificial altar.”
 >
-> I look over the map and say “Well, there’s certainly a danger of being discovered that I think you’re defying. Sounds like Dex to me, since you’re moving carefully and silently,” so he picks up the dice and rolls. The dice show 1 and 2, plus his Dex of 2 is only 5. “Damn\!” he says.
+> I look over the map and say “Well, there’s certainly a danger of being discovered that I think you’re defying. Sounds like DEX to me, since you’re moving carefully and silently,” so he picks up the dice and rolls. The dice show 1 and 2, plus his DEX of 2 is only 5. “Damn\!” he says.
 >
 > I already have an idea of what to do, but I check it against my list of moves to be sure. Sure enough, my idea to have him get his foot lodged in the rubble in the darkness is a move, “put someone in a spot.” “As you make your way through the shadows, you put your foot down on some rubble and it shifts under you, pinning your foot. What’s worse, you hear a deep raspy breath as the shifting rubble awakes something in the shadows. Are you giving away your position to cry for help or trying to get out yourself?”
 >
@@ -18,7 +18,7 @@
 >
 > Dan steps up. “Those goblins that ducked into the shadows? Can I see them?” “Not at first glance. Are you trying to pick them out?” “No, I’m just wondering if they’ll be targets for my sleep spell. I push the winds of magic into a lulling summer breeze that fills the room.”
 >
-> Dan rolls his cast a spell move to cast Sleep. He rolls 6 total on the dice, and he has +2 Int, for a total of 8. He has a choice to make. “You can feel the spell slipping away from you, the winds of magic are already all caught up in the goblin’s ritual sacrifice. There are some options on the move, which one are you taking to keep the spell?”
+> Dan rolls his cast a spell move to cast Sleep. He rolls 6 total on the dice, and he has +2 INT, for a total of 8. He has a choice to make. “You can feel the spell slipping away from you, the winds of magic are already all caught up in the goblin’s ritual sacrifice. There are some options on the move, which one are you taking to keep the spell?”
 >
 > Dan ponders his options. “I may need to put more of these guys to sleep. Brianne, can you cover me if I get in trouble or should I take the -1 forward?”
 >
@@ -52,7 +52,7 @@
 >
 > It’s time for me to make a call. “No, they’re entirely focused on Rath, they’re about to fire on him. I think you’ve got the element of surprise because they’re just too focused.”
 >
-> “Great\! Then I’ll go ahead and take a shot at the arms of the one closest to me, I want him to drop his bow. Looks like that’s +Dex… 10\! He drops his bow and takes 4 damage.”
+> “Great\! Then I’ll go ahead and take a shot at the arms of the one closest to me, I want him to drop his bow. Looks like that’s +DEX… 10\! He drops his bow and takes 4 damage.”
 >
 > I consult the goblin’s stats first, then reply “Yup, that’ll kill him. And since you hit him dead in the arm, he doesn’t get a shot off. The other one, however, releases his shot at Rath, for 2 damage. Rath, Brianne pushes you out of the way and you think you’re safe for a split second before an arrow flies into your leg, what are you doing about it? Actually, hold that thought, let’s see what Omar’s doing.”
 >

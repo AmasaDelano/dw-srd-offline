@@ -12,7 +12,7 @@ This chapter is all about how to play Dungeon World. Here, you’ll find informa
 
 Many of the rules discussed in this chapter rely on a player character’s abilities and their modifiers. The abilities are Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma. They measure a player character’s raw ability in each of those areas on a scale from 3 to 18, where 18 is the peak of mortal ability.
 
-Each ability has a modifier associated with it that is used when rolling with that ability. These are written as three-letter abbreviations: Str, Con, Dex, Int, Wis, Cha. Modifiers range from -3 to +3. The modifier is always derived from the current ability score.
+Each ability has a modifier associated with it that is used when rolling with that ability. These are written as three-letter abbreviations: STR, CON, DEX, INT, WIS, CHA. Modifiers range from -3 to +3. The modifier is always derived from the current ability score.
 
 ## Making Moves
 
@@ -20,7 +20,7 @@ The most basic unit of rules in Dungeon World is the move. A move looks like thi
 
 ---
 
-When you **attack an enemy in melee**, roll+Str. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+When you **attack an enemy in melee**, roll+STR. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
 
 ---
 

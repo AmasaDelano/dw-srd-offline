@@ -44,7 +44,7 @@ When you make camp in a dungeon or city, you don’t need to consume a ration.
 
 You start with these moves:
 
-### Hunt and Track \(Wis\)
+### Hunt and Track \(WIS\)
 
 When you **follow a trail of clues left behind by passing creatures**, roll+WIS. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:
 
@@ -113,7 +113,7 @@ Help an animal or spirit of the wild.
 
 ## Gear
 
-Your load is 11+Str. You start with dungeon rations \(5 uses, 1 weight\), leather armor \(1 armor, 1 weight\), and a bundle of arrows \(3 ammo, 1 weight\). Choose your armament:
+Your load is 11+STR. You start with dungeon rations \(5 uses, 1 weight\), leather armor \(1 armor, 1 weight\), and a bundle of arrows \(3 ammo, 1 weight\). Choose your armament:
 
 - Hunter’s bow \(near, far, 1 weight\) and short sword \(close, 1 weight\)
 - Hunter’s bow \(near, far, 1 weight\) and spear \(reach, 1 weight\)
