@@ -25,7 +25,7 @@
       <div class="top-bar">
         <div v-on:click="toggleSidebar()">MENU <span class="expander">{{ sidebar ? "«" : "»" }}</span></div>
       </div>
-      <div class="main-content" v-html="markdown" v-on:click.self="sidebar = false"></div>
+      <div class="main-content" v-html="markdown" v-on:click="sidebar = false"></div>
     </template>
     <template id="dw-bookmark">
       <li>
