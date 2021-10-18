@@ -57,6 +57,7 @@ blockquote {
     padding: 0 15px;
     background-color: #eee;
     font-style: italic;
+    margin: 16px 30px;
 }
 
 /* blockquote p {
@@ -64,7 +65,7 @@ blockquote {
     padding-left: 30px;
 } */
 
-p {
+p, li, blockquote {
     font-size: 16px;
     line-height: 1.5em;
     font-family: serif;
