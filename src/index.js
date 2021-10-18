@@ -58,10 +58,15 @@ const rootComponent = {
     data: function () {
         return {
             sections: bookmarks,
-            markdown: ""
+            markdown: introduction,
+            sidebar: false
         };
     },
     methods: {
+        toggleSidebar: function () {
+            this.sidebar = !this.sidebar;
+            console.log("Toggling: " + this.sidebar);
+        },
         select: function (markdown, id) {
             console.log("Ultimately Selected: " + id);
 
@@ -70,6 +75,8 @@ const rootComponent = {
             const hashLink = document.createElement("a");
             hashLink.setAttribute("href", "#" + id);
             hashLink.click();
+
+            this.sidebar = false;
         }
     }
 };
