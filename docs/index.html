@@ -6,7 +6,7 @@
     <title>Dungeon World SRD</title>
     <link rel="canonical" href="https://amasadelano.github.io/dw-srd-offline/" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="manifest.webmanifest?v=2">
+    <link rel="manifest" href="manifest.webmanifest">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -25,12 +25,12 @@
       <div class="top-bar">
         <div v-on:click.self="toggleSidebar()">MENU</div>
       </div>
-      <div class="main-content" v-html="markdown"></div>
+      <div class="main-content" v-html="markdown" v-on:click.self="sidebar = false"></div>
     </template>
     <template id="dw-bookmark">
       <li>
-        <span v-on:click.self="select(section)">{{ section.name }}</span>
-        <ul v-if="hasSubsections">
+        <span v-on:click.self="select(section)">{{ section.name }}</span><span class="expander" v-if="hasSubsections" v-on:click.self="expand(section)">{{ section.expanded ? "«" : "»" }}</span>
+        <ul v-if="hasSubsections" v-show="section.expanded">
           <dw-bookmark
               v-for="subsection in section.subsections"
               v-bind:section="subsection"

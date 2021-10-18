@@ -17,8 +17,9 @@ import playingTheGame from "./markdown/02_Playing_the_Game.md";
 import example from "./markdown/03_Example.md";
 import characterCreation from "./markdown/04_Character_Creation.md";
 import moves from "./markdown/05_Moves_Discussion.md";
+import gm from "./markdown/07_GM.md";
 
-const markdowns = [introduction, playingTheGame, example, characterCreation, moves];
+const markdowns = [introduction, playingTheGame, example, characterCreation, moves, gm];
 
 const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 const parents = [];
@@ -38,7 +39,8 @@ markdowns.forEach(function (markdown) {
             name: name,
             id: id,
             markdown: markdown,
-            subsections: []
+            subsections: [],
+            expanded: false
         };
 
         parents.length = level;

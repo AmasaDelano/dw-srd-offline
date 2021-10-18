@@ -25,17 +25,18 @@ html {
 
 .top-bar {
     position: fixed;
-    height: 50px;
-    line-height: 50px;
+    height: 65px;
+    line-height: 65px;
     top: 0;
     left: 0;
     background-color: #eee;
     width: 100vw;
     padding-left: 20px;
+    cursor: pointer;
 }
 
 .main-content {
-    margin-top: 65px;
+    margin-top: 80px;
 }
 
 /* https://css-tricks.com/hash-tag-links-padding/ */
@@ -45,8 +46,8 @@ h3::before,
 h4::before { 
     display: block; 
     content: " "; 
-    margin-top: -65px; 
-    height: 65px; 
+    margin-top: -80px; 
+    height: 80px; 
     visibility: hidden; 
     pointer-events: none;
 }
@@ -62,3 +63,28 @@ blockquote {
     text-indent: -30px;
     padding-left: 30px;
 } */
+
+p {
+    font-size: 16px;
+    line-height: 1.5em;
+    font-family: serif;
+}
+
+.left-bar {
+    font-size: 16px;
+}
+
+.left-bar li {
+    margin: 15px 0;
+    cursor: pointer;
+}
+
+.left-bar ul {
+    padding-left: 20px;
+    list-style: none;
+}
+
+.expander {
+    padding-left: 15px;
+    padding-right: 15px;
+}

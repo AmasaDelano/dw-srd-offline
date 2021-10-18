@@ -18,6 +18,9 @@
                 select: function (section) {
                     // console.log("Selected: " + section.id);
                     this.$emit("selected", section);
+                },
+                expand: function (section) {
+                    section.expanded = !section.expanded;
                 }
             }
         };
