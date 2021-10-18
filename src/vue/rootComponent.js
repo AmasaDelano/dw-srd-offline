@@ -10,10 +10,11 @@ const moves = require("../markdown/05_Moves_Discussion.md").default;
 const gm = require("../markdown/07_GM.md").default;
 const firstSession = require("../markdown/08_First_Session.md").default;
 const fronts = require("../markdown/09_Fronts.md").default;
+const world = require("../markdown/10_The_World.md").default;
 
 (function (part) {
 
-    const markdowns = [introduction, playingTheGame, example, characterCreation, moves, gm, firstSession, fronts];
+    const markdowns = [introduction, playingTheGame, example, characterCreation, moves, gm, firstSession, fronts, world];
 
     const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 
