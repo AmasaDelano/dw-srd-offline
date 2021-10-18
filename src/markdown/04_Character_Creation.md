@@ -97,4 +97,3 @@ Take some time to discuss the bonds and let the GM ask questions about them as t
 Take a little break: grab a drink, stretch your legs and let the GM brainstorm for a little bit about what they’ve learned about your characters. Once you’re all ready, grab your dice and your sheet and get ready to take on the dungeon.
 
 Once you’re ready the GM will get things started as described in the First Session chapter.
-

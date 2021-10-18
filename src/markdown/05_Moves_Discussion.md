@@ -12,7 +12,7 @@ Each move is presented here starting with its name, then the rules of the move. 
 
 ## Hack and Slash
 
-When you **attack an enemy in melee**, roll+Str. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+When you **attack an enemy in melee**, roll+STR. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
 
 ---
 
@@ -30,7 +30,7 @@ Some attacks may have additional effects depending on the triggering action, the
 >
 > Jarl: I’ve had enough of this\! I wallop the closest goblin with my hammer.
 >
-> GM: Okay, then. This is definitely combat, you’re using hack and slash. Roll+Str.
+> GM: Okay, then. This is definitely combat, you’re using hack and slash. Roll+STR.
 >
 > Jarl: I got an 11. It says here that I have a choice. Fear is for the weak, let those goblins come\!
 >
@@ -50,7 +50,7 @@ Some attacks may have additional effects depending on the triggering action, the
 >
 > Bartleby: I won’t let you betray me again, Finbar\! I run him through.
 >
-> GM: Well, okay, that’s a hack and slash, roll+Str.
+> GM: Well, okay, that’s a hack and slash, roll+STR.
 >
 > Bartleby: If you say so… I got a 7.
 >
@@ -58,7 +58,7 @@ Some attacks may have additional effects depending on the triggering action, the
 
 ## Volley
 
-When you **take aim and shoot at an enemy at range**, roll+Dex. ✴On a 10+, you have a clear shot—deal your damage. ✴On a 7–9, choose one \(whichever you choose you deal your damage\):
+When you **take aim and shoot at an enemy at range**, roll+DEX. ✴On a 10+, you have a clear shot—deal your damage. ✴On a 7–9, choose one \(whichever you choose you deal your damage\):
 
 - You have to move to get the shot placing you in danger as described by the GM
 - You have to take what you can get: -1d6 damage
@@ -96,12 +96,12 @@ If you’re throwing something that doesn’t have ammo \(maybe you’ve got a m
 
 When you **act despite an imminent threat** or **suffer a calamity**, say how you deal with it and roll. If you do it…
 
-- …by powering through, +Str
-- …by getting out of the way or acting fast, +Dex
-- …by enduring, +Con
-- …with quick thinking, +Int
-- …through mental fortitude, +Wis
-- …using charm and social grace, +Cha
+- …by powering through, +STR
+- …by getting out of the way or acting fast, +DEX
+- …by enduring, +CON
+- …with quick thinking, +INT
+- …through mental fortitude, +WIS
+- …using charm and social grace, +CHA
 
 ✴On a 10+, you do what you set out to, the threat doesn’t come to bear. ✴On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.
 
@@ -113,7 +113,7 @@ Defy danger also applies when you make another move despite danger not covered b
 
 Danger, here, is anything that requires resilience, concentration, or poise. This move will usually be called for by the GM. She’ll tell you what the danger is as you make the move. Something like “You’ll have to defy danger first. The danger is the steep and icy floor you’re running across. If you can keep your footing, you can make it to the door before the necromancer’s magic gets you.”
 
-Which stat applies depends on what action you take and your action has to trigger the move. That means you can’t defy danger from a steep and icy floor with a charming smile just so you can use Cha, since charmingly smiling at the icy floor does nothing to it. On the other hand, making a huge leap over the ice would be Str, placing your feet carefully would be Dex, and so on. Make the move to get the results.
+Which stat applies depends on what action you take and your action has to trigger the move. That means you can’t defy danger from a steep and icy floor with a charming smile just so you can use CHA, since charmingly smiling at the icy floor does nothing to it. On the other hand, making a huge leap over the ice would be STR, placing your feet carefully would be DEX, and so on. Make the move to get the results.
 
 > GM: Emory, as you climb up the side of the ravine you spy a cultist on a ledge nearby who evokes a frost spell and covers the side of the cliff with ice\! If you want to keep climbing, you need to defy danger or you’ll fall.
 >
@@ -131,7 +131,7 @@ Which stat applies depends on what action you take and your action has to trigge
 >
 > Valeria: Pfft, he’s no match for Valeria the Red\! I leap aside like a leaf in the wind, then I start hacking and slashing.
 >
-> GM: Defy danger with your Dex, please and thank you.
+> GM: Defy danger with your DEX, please and thank you.
 
 > Octavia: I’ve had enough of this ogre, I’m going to drop my shield and swing my hammer in both hands. Hack and slash, right?
 >
@@ -143,7 +143,7 @@ Which stat applies depends on what action you take and your action has to trigge
 
 ## Defend
 
-When you **stand in defense of a person, item, or location** under attack, roll+Con. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
+When you **stand in defense of a person, item, or location** under attack, roll+CON. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
 
 - Redirect an attack from the thing you defend to yourself
 - Halve the attack’s effect or damage
@@ -166,7 +166,7 @@ Defending yourself is certainly an option. It amounts to giving up on making att
 >
 > Lux: Don’t worry, squishy Avon, I will save you. While Avon casts his spell, I swear to protect him—I slam my hammer on my shield and yell “If you want to stop him, you’ll have to come through me.” I’d like to defend Avon.
 >
-> GM: And with such gusto, too. Roll+Con.
+> GM: And with such gusto, too. Roll+CON.
 >
 > Lux: I get an 11, three hold, right?
 >
@@ -194,7 +194,7 @@ Defending yourself is certainly an option. It amounts to giving up on making att
 
 ## Spout Lore
 
-When you **consult your accumulated knowledge about something**, roll+Int. ✴On a 10+, the GM will tell you something interesting and useful about the subject relevant to your situation. ✴On a 7–9, the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
+When you **consult your accumulated knowledge about something**, roll+INT. ✴On a 10+, the GM will tell you something interesting and useful about the subject relevant to your situation. ✴On a 7–9, the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
 
 ---
 
@@ -232,7 +232,7 @@ Just in case it isn’t clear: the answers are always true, even if the GM had t
 
 ## Discern Realities
 
-When you **closely study a situation or person**, roll+Wis. ✴On a 10+, ask the GM 3 questions from the list below. ✴On a 7–9, ask 1.
+When you **closely study a situation or person**, roll+WIS. ✴On a 10+, ask the GM 3 questions from the list below. ✴On a 7–9, ask 1.
 
 Either way, take +1 forward when acting on the answers.
 
@@ -273,7 +273,7 @@ Of course, some questions might have a negative answer, that’s fine. If there 
 
 ## Parley
 
-When you **have leverage on a GM Character and manipulate them**, roll+Cha. Leverage is something they need or want. ✴On a 10+, they do what you ask if you first promise what they ask of you. ✴On a 7–9, they will do what you ask, but need some concrete assurance of your promise, right now.
+When you **have leverage on a GM Character and manipulate them**, roll+CHA. Leverage is something they need or want. ✴On a 10+, they do what you ask if you first promise what they ask of you. ✴On a 7–9, they will do what you ask, but need some concrete assurance of your promise, right now.
 
 ---
 
@@ -301,13 +301,13 @@ In some cases when you state what you want you may include a possible promise fo
 >
 > Leena: I toss it to him. We can always dig up more dirt on this scumbag later.
 >
-> Pendrell: This is the place where One Eye plays cards, right? Okay, I walk up to the guard. “Hey there fellows, care to, you know, open the door and let me in?” and I’m being all suave and cool so they’ll do it. Parley is roll+Cha right?
+> Pendrell: This is the place where One Eye plays cards, right? Okay, I walk up to the guard. “Hey there fellows, care to, you know, open the door and let me in?” and I’m being all suave and cool so they’ll do it. Parley is roll+CHA right?
 >
 > GM: Not so fast, slick. All you’ve done is say what you want. The big smelly one on the right steps in front of you and says, “Sorry sir, private game,” all bored-sounding. It’s like he hates his job and wishes he were someplace else. If you want to parley, you’re going to need some leverage. Maybe a bribe?
 
 ## Aid or Interfere
 
-When you **help or hinder someone **, roll+bond with them. ✴On a 10+, they take +1 or -2 to their roll, your choice. ✴On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.
+When you **help or hinder someone**, roll+bond with them. ✴On a 10+, they take +1 or -2 to their roll, your choice. ✴On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.
 
 ---
 
@@ -375,11 +375,11 @@ Staying a night in an inn or house is making camp, too. Regain your hit points a
 
 ## Take Watch
 
-When **you’re on watch and something approaches the camp** roll+Wis. ✴On a 10+, you’re able to wake the camp and prepare a response, everyone in the camp takes +1 forward. ✴On a 7–9, you react just a moment too late; your companions in camp are awake but haven’t had time to prepare. They have weapons and armor but little else. ✴On a miss, whatever lurks outside the campfire’s light has the drop on you.
+When **you’re on watch and something approaches the camp** roll+WIS. ✴On a 10+, you’re able to wake the camp and prepare a response, everyone in the camp takes +1 forward. ✴On a 7–9, you react just a moment too late; your companions in camp are awake but haven’t had time to prepare. They have weapons and armor but little else. ✴On a miss, whatever lurks outside the campfire’s light has the drop on you.
 
 ## Undertake a Perilous Journey
 
-When you **travel through hostile territory**, choose one member of the party to act as *trailblazer*, one to *scout* ahead, and one to be *quartermaster*. Each character with a job to do rolls+Wis. ✴On a 10+:
+When you **travel through hostile territory**, choose one member of the party to act as *trailblazer*, one to *scout* ahead, and one to be *quartermaster*. Each character with a job to do rolls+WIS. ✴On a 10+:
 
 - the quartermaster reduces the number of rations required by one
 - the trailblazer reduces the amount of time it takes to reach your destination \(the GM will say by how much\)
@@ -434,7 +434,7 @@ You can only carouse when you return triumphant. That’s what draws the crowd o
 
 ## Supply
 
-When you **go to buy something with gold on hand**, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+Cha. ✴On a 10+, you find what you’re looking for at a fair price. ✴On a 7–9, you’ll have to pay more or settle for something that’s not exactly what you wanted, but close. The GM will tell you what your options are.
+When you **go to buy something with gold on hand**, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+CHA. ✴On a 10+, you find what you’re looking for at a fair price. ✴On a 7–9, you’ll have to pay more or settle for something that’s not exactly what you wanted, but close. The GM will tell you what your options are.
 
 ## Recover
 
@@ -453,7 +453,7 @@ When you **put out word that you’re looking to hire help**, roll:
 
 ## Outstanding Warrants
 
-When you **return to a civilized place in which you’ve caused trouble before**, roll+Cha. ✴On a 10+, word has spread of your deeds and everyone recognizes you. ✴On a 7–9, as above, and the GM chooses a complication:
+When you **return to a civilized place in which you’ve caused trouble before**, roll+CHA. ✴On a 10+, word has spread of your deeds and everyone recognizes you. ✴On a 7–9, as above, and the GM chooses a complication:
 
 - The local constabulary has a warrant out for your arrest.
 - Someone has put a price on your head.
