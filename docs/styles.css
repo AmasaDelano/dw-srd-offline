@@ -50,3 +50,15 @@ h4::before {
     visibility: hidden; 
     pointer-events: none;
 }
+
+blockquote {
+    border: 1px solid #333;
+    padding: 0 15px;
+    background-color: #eee;
+    font-style: italic;
+}
+
+/* blockquote p {
+    text-indent: -30px;
+    padding-left: 30px;
+} */

@@ -222,7 +222,7 @@ Advancement, like everything else in Dungeon World, is both prescriptive and des
 This isn’t a benefit or detriment to the players or the GM; it’s not an excuse to gain more powers or take them away. It’s just a reflection of life in Dungeon World.
 
 > Avon, despite being a wizard, has risen to the notice of Lenoral, the deity of arcane knowledge. After being blessed by an avatar of Lenoral and saying his vows in the church, Avon is under the deity’s watch. He can fulfill Petitions and gain boons like a cleric.
->
+
 > Gregor offers his signature weapon, an axe whose green steel is tempered in orc blood, as a desperate bargain to save King Authen from eternal damnation. Without his axe he gets none of the benefits of his signature weapon. Should he recover it he’ll have access to its benefits again.
 
 Descriptive changes only happen when the character has clearly gained access to an ability. It’s not up to any one player to decide this—if you think a character qualifies for a new ability, discuss it as a group.

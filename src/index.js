@@ -16,8 +16,9 @@ import introduction from "./markdown/01_Introduction.md";
 import playingTheGame from "./markdown/02_Playing_the_Game.md";
 import example from "./markdown/03_Example.md";
 import characterCreation from "./markdown/04_Character_Creation.md";
+import moves from "./markdown/05_Moves_Discussion.md";
 
-const markdowns = [introduction, playingTheGame, example, characterCreation];
+const markdowns = [introduction, playingTheGame, example, characterCreation, moves];
 
 const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 const parents = [];
