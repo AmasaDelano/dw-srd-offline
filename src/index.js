@@ -27,7 +27,7 @@ markdowns.forEach(function (markdown) {
     const headings = [...markdown.matchAll(headingRegex)];
 
     headings.forEach(function (heading) {
-        console.log(JSON.stringify(heading));
+        console.log("Heading: " + JSON.stringify(heading));
 
         const level = parseInt(heading[1]) - 1;
         const id = heading[2];
