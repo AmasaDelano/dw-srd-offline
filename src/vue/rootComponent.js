@@ -2,6 +2,7 @@
 
 "use strict";
 
+const license = require("../markdown/00_License.md").default;
 const introduction = require("../markdown/01_Introduction.md").default;
 const playingTheGame = require("../markdown/02_Playing_the_Game.md").default;
 const example = require("../markdown/03_Example.md").default;
@@ -11,10 +12,13 @@ const gm = require("../markdown/07_GM.md").default;
 const firstSession = require("../markdown/08_First_Session.md").default;
 const fronts = require("../markdown/09_Fronts.md").default;
 const world = require("../markdown/10_The_World.md").default;
+const monsters = require("../markdown/11_Monsters.md").default;
+const equipment = require("../markdown/13_Equipment.md").default;
+const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
 
 (function (part) {
 
-    const markdowns = [introduction, playingTheGame, example, characterCreation, moves, gm, firstSession, fronts, world];
+    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, gm, firstSession, fronts, world, monsters, equipment, advancedDelving];
 
     const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 
@@ -52,13 +56,18 @@ const world = require("../markdown/10_The_World.md").default;
         });
     });
 
+    var licenseAndAttribution = bookmarks.splice(0, 1)[0];
+    licenseAndAttribution.name = "License and Attribution";
+    licenseAndAttribution.subsections.length = 0;
+    bookmarks.push(licenseAndAttribution);
+
     part.get = function get() {
         return {
             template: "#main",
             data: function () {
                 return {
                     sections: bookmarks,
-                    markdown: introduction,
+                    markdown: license,
                     sidebar: false
                 };
             },

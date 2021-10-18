@@ -100,21 +100,21 @@ If two questions would grant the same tag don’t worry about it. If you like yo
 
 When you’re finished your monster may have only one move. If this is the case and you plan on using the monster often, give it another 1–2 moves of your choice. These moves often describe secondary modes of attack, other uses for a primary mode of attack, or connections to a certain place in the world.
 
-#### What is it known to do?
+### What is it known to do?
 
 Write a monster move describing what it does.
 
-#### What does it want that causes problems for others?
+### What does it want that causes problems for others?
 
 This is its instinct. Write it as an intended action.
 
-#### How does it usually hunt or fight?
+### How does it usually hunt or fight?
 
 - In large groups: horde, d6 damage, 3 HP
 - In small groups, about 2–5: group, d8 damage, 6 HP
 - All by its lonesome: solitary, d10 damage, 12 HP
 
-#### How big is it?
+### How big is it?
 
 - Smaller than a house cat: tiny, hand, -2 damage
 - Halfling-esque: small, close
@@ -122,7 +122,7 @@ This is its instinct. Write it as an intended action.
 - As big as a cart: large, close, reach, +4 HP, +1 damage
 - Much larger than a cart: huge, reach, +8 HP, +3 damage
 
-#### What is its most important defense?
+### What is its most important defense?
 
 - Cloth or flesh: 0 armor
 - Leathers or thick hide: 1 armor
@@ -130,7 +130,7 @@ This is its instinct. Write it as an intended action.
 - Plate or bone: 3 armor
 - Permanent magical protection: 4 armor, magical
 
-#### What is it known for? \(Choose all that apply\)
+### What is it known for? \(Choose all that apply\)
 
 - Unrelenting strength: +2 damage, forceful
 - Skill in offense: roll damage twice and take the better roll
@@ -142,7 +142,7 @@ This is its instinct. Write it as an intended action.
 - The favor of the gods: divine, +2 damage or +2 HP or both \(your call\)
 - Spells and magic: magical, write a move about its spells
 
-#### What is its most common form of attack?
+### What is its most common form of attack?
 
 Note it along with the creature’s damage. Common answers include: a type of weapon, claws, a specific spell. Then answer these questions about it:
 
@@ -153,7 +153,7 @@ Note it along with the creature’s damage. Common answers include: a type of we
 - Armor doesn’t help with the damage it deals \(due to magic, size, etc.\): ignores armor
 - It usually attacks at range \(with arrows, spells, or other projectiles\): near or far or both \(your call\)
 
-#### Which of these describe it? \(Choose all that apply\)
+### Which of these describe it? \(Choose all that apply\)
 
 - It isn’t dangerous because of the wounds it inflicts, but for other reasons: devious, reduce its damage die size by one, write a move about why it’s dangerous
 - It organizes into larger groups that it can call on for support: organized, write a move about calling on others for help
@@ -184,7 +184,24 @@ If the monster has accumulated some wealth you can roll that randomly. Start wit
 
 Roll the monster’s damage die plus any added dice to find the monster’s treasure:
 
-  1. A few coins, 2d8 or so   2. An item useful to the current situation   3. Several coins, about 4d10   4. A small item \(gem, art\) of considerable value, worth as much as 2d10×10 coins, 0 weight   5. Some minor magical trinket   6. Useful information \(in the form of clues, notes, etc.\)   7. A bag of coins, 1d4×100 or thereabouts. 1 weight per 100.   8. A very valuable small item \(gem, art\) worth 2d6×100, 0 weight   9. A chest of coins and other small valuables. 1 weight but worth 3d6×100 coins.   10. A magical item or magical effect   11. Many bags of coins for a total of 2d4×100 or so   12. A sign of office \(crown, banner\) worth at least 3d4×100 coins   13. A large art item worth 4d4×100 coins, 1 weight   14. A unique item worth at least 5d4×100 coins   15. All the information needed to learn a new spell and roll again   16. A portal or secret path \(or directions to one\) and roll again   17. Something relating to one of the characters and roll again   18. A hoard: 1d10×1000 coins and 1d10×10 gems worth 2d6×100 each
+1. A few coins, 2d8 or so
+2. An item useful to the current situation
+3. Several coins, about 4d10
+4. A small item \(gem, art\) of considerable value, worth as much as 2d10×10 coins, 0 weight
+5. Some minor magical trinket
+6. Useful information \(in the form of clues, notes, etc.\)
+7. A bag of coins, 1d4×100 or thereabouts. 1 weight per 100.
+8. A very valuable small item \(gem, art\) worth 2d6×100, 0 weight
+9. A chest of coins and other small valuables. 1 weight but worth 3d6×100 coins.
+10. A magical item or magical effect
+11. Many bags of coins for a total of 2d4×100 or so
+12. A sign of office \(crown, banner\) worth at least 3d4×100 coins
+13. A large art item worth 4d4×100 coins, 1 weight
+14. A unique item worth at least 5d4×100 coins
+15. All the information needed to learn a new spell and roll again
+16. A portal or secret path \(or directions to one\) and roll again
+17. Something relating to one of the characters and roll again
+18. A hoard: 1d10×1000 coins and 1d10×10 gems worth 2d6×100 each
 
 ## Monster Settings
 
@@ -227,4 +244,3 @@ Ruins dot the countryside of Dungeon World. Old bastions of long-forgotten civil
 ### Planar Powers
 
 Sometimes, monsters do not come from Dungeon World at all. Beyond the mountains at the edge of the world or below the deepest seas, the sages and wise old priests say that there are gateways to the lands beyond. They speak of elysian fields; rivers of sweet wine and maidens dancing in fields of gold. They tell tales of the paradise of heavens to be found past the Planar Door. Tales tell, too, of the Thousandfold Hell. Of the swirling Elemental Vortex and the devils that wait for the stars to align so they can enter Dungeon World and wreak their bloody havoc. You must be curious to know if these tales are true? What will you see when the passage to the beyond is opened?
-

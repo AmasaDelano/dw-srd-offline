@@ -40,8 +40,6 @@ Assign these scores to your stats: 16, 15, 13, 12, 9, 8. Start by looking over t
 
 Next you need to figure out the modifiers for your stats. The modifiers are what you use when a move says +DEX or +CHA. If you’re using the standard character sheets the modifiers are already listed with each score.
 
-Score Modifier:
-
 | Score | Modifier |
 | ----- | -------- |
 | 1–3   | -3       |
