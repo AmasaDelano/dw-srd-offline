@@ -19,7 +19,7 @@ import characterCreation from "./markdown/04_Character_Creation.md";
 
 const markdowns = [introduction, playingTheGame, example, characterCreation];
 
-const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+)<\/h[1234]>", "g");
+const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 const parents = [];
 const bookmarks = [];
 
@@ -68,7 +68,7 @@ const rootComponent = {
             console.log("Toggling: " + this.sidebar);
         },
         select: function (markdown, id) {
-            console.log("Ultimately Selected: " + id);
+            console.log("Selected: " + id);
 
             this.markdown = markdown;
             

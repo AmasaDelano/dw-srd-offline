@@ -16,7 +16,7 @@
             },
             methods: {
                 select: function (section) {
-                    console.log("Selected: " + section.id);
+                    // console.log("Selected: " + section.id);
                     this.$emit("selected", section);
                 }
             }
