@@ -37,9 +37,13 @@ const folk = require("../markdown/monster_settings/12_09_Folk.md").default;
 const equipment = require("../markdown/13_Equipment.md").default;
 const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
 
+const teaching = require("../markdown/appendices/15_Teaching.md").default;
+const conversion = require("../markdown/appendices/16_Conversion.md").default;
+const npcs = require("../markdown/appendices/17_NPCs.md").default;
+
 (function (part) {
 
-    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, bard, cleric, druid, fighter, paladin, ranger, thief, wizard, gm, firstSession, fronts, world, monsters, caverns, swamp, undead, woods, hordes, experiments, depths, planes, folk, equipment, advancedDelving];
+    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, bard, cleric, druid, fighter, paladin, ranger, thief, wizard, gm, firstSession, fronts, world, monsters, caverns, swamp, undead, woods, hordes, experiments, depths, planes, folk, equipment, advancedDelving, teaching, conversion, npcs];
 
     const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 

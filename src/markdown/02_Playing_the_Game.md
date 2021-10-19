@@ -121,7 +121,7 @@ It’s a brave monster that goes into battle alone. Most creatures fight with so
 
 If multiple creatures attack at once roll the highest damage among them and add +1 damage for each monster beyond the first.
 
-<> A goblin orkaster \(d10+1 damage ignores armor\) and three goblins \(d6 damage\) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other goblins. Adding it all up I tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.
+> A goblin orkaster \(d10+1 damage ignores armor\) and three goblins \(d6 damage\) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other goblins. Adding it all up I tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.
 
 #### Stun Damage
 

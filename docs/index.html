@@ -30,7 +30,7 @@
     <template id="dw-bookmark">
       <li>
         <div class="bookmark">
-          <span class="button" v-on:click.self="select(section)">{{ section.name }}</span><span class="expander" v-if="hasSubsections" v-on:click.self="expand(section)">{{ section.expanded ? "«" : "»" }}</span>
+          <span class="button" v-on:click.self="select(section)" v-html="section.name"></span><span class="expander" v-if="hasSubsections" v-on:click.self="expand(section)">{{ section.expanded ? "«" : "»" }}</span>
         </div>
         <ul v-if="hasSubsections" v-show="section.expanded">
           <dw-bookmark
