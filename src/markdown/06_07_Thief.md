@@ -32,7 +32,7 @@ Your base damage is d8.
 
 ## Starting Moves
 
-Choose a race and gain the corresponding move:
+**Choose a race and gain the corresponding move:**
 
 ### Halfling
 
@@ -42,7 +42,7 @@ When you attack with a ranged weapon, deal +2 damage.
 
 You are a professional. When you spout lore or discern realities about criminal activities, take +1.
 
-You start with these moves:
+**You start with these moves:**
 
 ### Trap Expert
 
@@ -80,7 +80,7 @@ You’ve mastered the care and use of a poison. Choose a poison from the list be
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 
 ### Chaotic
 
@@ -125,7 +125,7 @@ I stole something from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**When you gain a level from 2–5, choose from these moves.**
 
 ### Cheap Shot
 
@@ -163,23 +163,23 @@ When you’re outnumbered, you have +1 armor.
 
 When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you’ll have to settle for something close or it comes with strings attached, your call.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5 moves.
+**When you gain a level from 6–10, choose from these moves or the level 2–5 moves.**
 
 ### Dirty Fighter
 
-Replaces: Cheap Shot
+*Replaces: Cheap Shot*
 
 When using a precise or hand weapon, your backstab deals an extra +1d8 damage and all other attacks deal +1d4 damage.
 
 ### Extremely Cautious
 
-Replaces: Cautious
+*Replaces: Cautious*
 
 When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.
 
 ### Alchemist
 
-Replaces: Brewer
+*Replaces: Brewer*
 
 When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you’ve used before. Alternately you can describe the effects of a poison you’d like to create. The GM will tell you that you can create it, but with one or more caveats:
 
@@ -190,7 +190,7 @@ When you have you have time to gather materials and a safe place to brew you can
 
 ### Serious Underdog
 
-Replaces: Underdog
+*Replaces: Underdog*
 
 You have +1 armor. When you’re outnumbered, you have +2 armor instead.
 
@@ -218,4 +218,3 @@ When you take time to make a plan to steal something, name the thing you want to
 - What’s its most powerful defense?
 - Who will come after it?
 - Who else wants it?
-
