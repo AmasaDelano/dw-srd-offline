@@ -8,6 +8,9 @@ const playingTheGame = require("../markdown/02_Playing_the_Game.md").default;
 const example = require("../markdown/03_Example.md").default;
 const characterCreation = require("../markdown/04_Character_Creation.md").default;
 const moves = require("../markdown/05_Moves_Discussion.md").default;
+const bard = require("../markdown/06_01_Bard.md").default;
+const cleric = require("../markdown/06_02_Cleric.md").default;
+const druid = require("../markdown/06_03_Druid.md").default;
 const gm = require("../markdown/07_GM.md").default;
 const firstSession = require("../markdown/08_First_Session.md").default;
 const fronts = require("../markdown/09_Fronts.md").default;
@@ -18,7 +21,7 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
 
 (function (part) {
 
-    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, gm, firstSession, fronts, world, monsters, equipment, advancedDelving];
+    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, bard, cleric, druid, gm, firstSession, fronts, world, monsters, equipment, advancedDelving];
 
     const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 

@@ -32,7 +32,7 @@ Your base damage is d6.
 
 ## Starting Moves
 
-Choose a race and gain the corresponding move:
+**Choose a race and gain the corresponding move:**
 
 ### Elf
 
@@ -46,7 +46,7 @@ As your people learned to bind animals to field and farm, so too are you bound t
 
 You sing the healing songs of spring and brook. When you make camp, you and your allies heal +1d6.
 
-You start with these moves:
+**You start with these moves:**
 
 ### Born of the Soil
 
@@ -86,7 +86,7 @@ When you **spend time in contemplation of an animal spirit**, you may add its sp
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 
 ### Chaotic
 
@@ -102,14 +102,20 @@ Eliminate an unnatural menace.
 
 ## Gear
 
-Your load is 6+STR. You carry some token of your land, describe it. Choose your defenses:
+Your load is 6+STR. You carry some token of your land, describe it.
+
+Choose your defenses:
 
 - Hide armor \(1 armor, 1 weight\)
-- Wooden shield \(+1 armor, 1 weight\) Choose your armament:
+- Wooden shield \(+1 armor, 1 weight\)
+
+Choose your armament:
 
 - Shillelagh \(close, 2 weight\)
 - Staff \(close, two-handed, 1 weight\)
-- Spear \(close, thrown, near, 1 weight\) Choose one:
+- Spear \(close, thrown, near, 1 weight\)
+
+Choose one:
 
 - Adventuring gear \(1 weight\)
 - Poultices and herbs \(2 uses, 1 weight\)
@@ -130,7 +136,7 @@ I have showed \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ a secret rite of the Land.
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**When you gain a level from 2–5, choose from these moves.**
 
 ### Hunter’s Brother
 
@@ -176,7 +182,7 @@ When you **call on the primal spirits of fire, water, earth or air to perform a 
 
 When you **deal damage**, take 1 balance. When you touch someone and channel the spirits of life you may spend balance. For each balance spent, heal 1d4 HP.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5 moves.
+**When you gain a level from 6–10, choose from these moves or the level 2–5 moves.**
 
 ### Embracing No Form
 
@@ -188,7 +194,7 @@ You are able to study the essence of specific individuals to take their exact fo
 
 ### Blood and Thunder
 
-Replaces: Red of Tooth and Claw
+*Replaces: Red of Tooth and Claw*
 
 When you **are in an appropriate animal form** \(something dangerous\) increase your damage to d10.
 
@@ -198,7 +204,7 @@ When you take this move, the next opportunity that you have safety and time to s
 
 ### World-Talker
 
-Requires: Thing-Talker
+*Requires: Thing-Talker*
 
 You see the patterns that make up the fabric of the world. You may now apply your spirit tongue, shapeshifter and studied essence moves to pure elements—fire, water, air and earth.
 
@@ -208,7 +214,7 @@ Choose one move from the ranger class list.
 
 ### Formshaper
 
-Requires: Formcrafter
+*Requires: Formcrafter*
 
 You may increase your armor by 1 or deal an additional +1d4 damage while in an animal form. Choose which when you shapeshift.
 
@@ -219,4 +225,3 @@ When you shapeshift, you may create a merged form of up to three different shape
 ### Weather Weaver
 
 When you are under open skies when the sun rises the GM will ask you what the weather will be that day. Tell them whatever you like, it comes to pass.
-
