@@ -73,7 +73,7 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
         document.querySelectorAll(".main-content p, .main-content li, h1, h2, h3, h4").forEach(function (element) {
             element.addEventListener("click", function () {
                 const selection = window.getSelection();
-                selection.setBaseAndExtent(element, 0, element, 1);
+                selection.setBaseAndExtent(element, 0, element, element.children.length * 2 + 1);
             })
         });
     }
@@ -98,6 +98,11 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
                 },
                 select: function (markdown, id) {
                     console.log("Selected: " + id);
+
+                    let changing = false;
+                    if (markdown !== this.markdown) {
+                        changing = true;
+                    }
         
                     this.markdown = markdown;
                     this.sidebar = false;
@@ -107,7 +112,9 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
                     setTimeout(function () {
                         hashLink.click();
 
-                        addSelectOnTap();
+                        if (changing) {
+                            addSelectOnTap();
+                        }
                     }, 1);
                 }
             }
