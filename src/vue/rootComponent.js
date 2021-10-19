@@ -64,16 +64,26 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
         });
     });
 
-    var licenseAndAttribution = bookmarks.splice(0, 1)[0];
+    const licenseAndAttribution = bookmarks.splice(0, 1)[0];
     licenseAndAttribution.name = "License and Attribution";
     licenseAndAttribution.subsections.length = 0;
     bookmarks.push(licenseAndAttribution);
 
+    let selectedNode = undefined;
+
     function addSelectOnTap() {
+        window.getSelection().empty();
+
         document.querySelectorAll(".main-content p, .main-content li, h1, h2, h3, h4").forEach(function (element) {
             element.addEventListener("click", function () {
                 const selection = window.getSelection();
-                selection.setBaseAndExtent(element, 0, element, element.children.length * 2 + 1);
+                if (element === selectedNode) {
+                    selection.empty();
+                    selectedNode = undefined;
+                } else {
+                    selection.setBaseAndExtent(element, 0, element, element.childNodes.length);
+                    selectedNode = element;
+                }
             })
         });
     }
@@ -99,10 +109,7 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
                 select: function (markdown, id) {
                     console.log("Selected: " + id);
 
-                    let changing = false;
-                    if (markdown !== this.markdown) {
-                        changing = true;
-                    }
+                    const changing = markdown !== this.markdown;
         
                     this.markdown = markdown;
                     this.sidebar = false;
