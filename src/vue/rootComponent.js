@@ -8,6 +8,7 @@ const playingTheGame = require("../markdown/02_Playing_the_Game.md").default;
 const example = require("../markdown/03_Example.md").default;
 const characterCreation = require("../markdown/04_Character_Creation.md").default;
 const moves = require("../markdown/05_Moves_Discussion.md").default;
+
 const bard = require("../markdown/06_01_Bard.md").default;
 const cleric = require("../markdown/06_02_Cleric.md").default;
 const druid = require("../markdown/06_03_Druid.md").default;
@@ -16,17 +17,29 @@ const paladin = require("../markdown/06_05_Paladin.md").default;
 const ranger = require("../markdown/06_06_Ranger.md").default;
 const thief = require("../markdown/06_07_Thief.md").default;
 const wizard = require("../markdown/06_08_Wizard.md").default;
+
 const gm = require("../markdown/07_GM.md").default;
 const firstSession = require("../markdown/08_First_Session.md").default;
 const fronts = require("../markdown/09_Fronts.md").default;
 const world = require("../markdown/10_The_World.md").default;
 const monsters = require("../markdown/11_Monsters.md").default;
+
+const caverns = require("../markdown/monster_settings/12_01_Caverns.md").default;
+const swamp = require("../markdown/monster_settings/12_02_Swamp.md").default;
+const undead = require("../markdown/monster_settings/12_03_Undead.md").default;
+const woods = require("../markdown/monster_settings/12_04_Woods.md").default;
+const hordes = require("../markdown/monster_settings/12_05_Hordes.md").default;
+const experiments = require("../markdown/monster_settings/12_06_Experiments.md").default;
+const depths = require("../markdown/monster_settings/12_07_Depths.md").default;
+const planes = require("../markdown/monster_settings/12_08_Planes.md").default;
+const folk = require("../markdown/monster_settings/12_09_Folk.md").default;
+
 const equipment = require("../markdown/13_Equipment.md").default;
 const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
 
 (function (part) {
 
-    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, bard, cleric, druid, fighter, paladin, ranger, thief, wizard, gm, firstSession, fronts, world, monsters, equipment, advancedDelving];
+    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, bard, cleric, druid, fighter, paladin, ranger, thief, wizard, gm, firstSession, fronts, world, monsters, caverns, swamp, undead, woods, hordes, experiments, depths, planes, folk, equipment, advancedDelving];
 
     const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 
