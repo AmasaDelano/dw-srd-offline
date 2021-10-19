@@ -38,7 +38,7 @@ Your base damage is d10.
 
 ## Starting Moves
 
-Choose a race and gain the corresponding move:
+**Choose a race and gain the corresponding move:**
 
 ### Dwarf
 
@@ -56,7 +56,7 @@ When you defy danger and **use your small size to your advantage**, take +1.
 
 Once per battle you may reroll a single damage roll \(yours or someone else’s\).
 
-You start with these moves:
+**You start with these moves:**
 
 ### Bend Bars, Lift Gates
 
@@ -111,7 +111,7 @@ Choose a look:
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 
 ### Good
 
@@ -153,7 +153,7 @@ I worry about the ability of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to survive in the du
 
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these moves.
+**When you gain a level from 2-5, choose from these moves.**
 
 ### Merciless
 
@@ -195,41 +195,41 @@ You gain +1 armor.
 
 When you have access to a forge you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
+**When you gain a level from 6-10, choose from these moves or the level 2-5 moves.**
 
 ### Bloodthirsty
 
-Replaces: Merciless
+*Replaces: Merciless*
 
 When you deal damage, deal +1d8 damage.
 
 ### Armored Perfection
 
-Replaces: Armor Mastery
+*Replaces: Armor Mastery*
 
 When you **choose to let your armor take the brunt of damage dealt to you**, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield \(your choice\) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
 
 ### Evil Eye
 
-Requires: Seeing Red
+*Requires: Seeing Red*
 
 When you **enter combat**, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.
 
 ### Taste of Blood
 
-Replaces: Scent of Blood
+*Replaces: Scent of Blood*
 
 When you hack and slash an enemy, your next attack against that same foe deals +1d8 damage.
 
 ### Multiclass Initiate
 
-Required: Multiclass Dabbler
+*Required: Multiclass Dabbler*
 
 Get one move from another class. Treat your level as one lower for choosing the move.
 
 ### Steel Hide
 
-Replaces: Iron Hide
+*Replaces: Iron Hide*
 
 You gain +2 armor.
 
@@ -244,4 +244,3 @@ When you look over an enemy’s weaponry, ask the GM how much damage they do.
 ### Superior Warrior
 
 When you hack and slash on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.
-

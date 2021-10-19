@@ -32,17 +32,17 @@ Your base damage is d10.
 
 ## Starting Moves
 
-You are human, so you get this move.
+**You are human, so you get this move.**
 
 ### Human
 
 When you **pray for guidance, even for a moment, and ask, “What here is evil?”** the GM will tell you, honestly.
 
-You start with these moves:
+**You start with these moves:**
 
 ### Lay on Hands \(CHA\)
 
-When you **touch someone, skin to skin, and pray for their well-being **, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.
+When you **touch someone, skin to skin, and pray for their well-being**, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.
 
 ### Armored
 
@@ -86,7 +86,7 @@ The GM will then tell you what vow or vows is required of you to maintain your b
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 
 ### Lawful
 
@@ -122,7 +122,7 @@ I respect the beliefs of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ but hope they will somed
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**When you gain a level from 2–5, choose from these moves.**
 
 ### Divine Favor
 
@@ -164,53 +164,53 @@ Take +1 to order hirelings.
 
 When you heal an ally, you heal +1d8 damage.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5 moves.
+**When you gain a level from 6–10, choose from these moves or the level 2–5 moves.**
 
 ### Evidence of Faith
 
-Requires: Divine Favor
+*Requires: Divine Favor*
 
 When you **see divine magic as it happens**, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.
 
 ### Holy Smite
 
-Replaces: Smite
+*Replaces: Smite*
 
 While on a quest you deal +1d8 damage.
 
 ### Ever Onward
 
-Replaces: Charge\!
+*Replaces: Charge\!*
 
 When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.
 
 ### Impervious Defender
 
-Replaces: Staunch Defender
+*Replaces: Staunch Defender*
 
 When you defend you always get +1 hold, even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.
 
 ### Tandem Strike
 
-Replaces: Setup Strike
+*Replaces: Setup Strike*
 
 When you hack and slash, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.
 
 ### Divine Protection
 
-Replaces: Holy Protection
+*Replaces: Holy Protection*
 
 You get +2 armor while on a quest.
 
 ### Divine Authority
 
-Replaces: Voice of Authority
+*Replaces: Voice of Authority*
 
 Take +1 to order hirelings. When you roll a 12+ the hireling transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.
 
 ### Perfect Hospitaller
 
-Replaces: Hospitaller
+*Replaces: Hospitaller*
 
 When you heal an ally, you heal +2d8 damage.
 
@@ -221,4 +221,3 @@ When you suffer a debility \(even through Bloody Aegis\) take +1 forward against
 ### Perfect Knight
 
 When you quest you choose three boons instead of two.
-

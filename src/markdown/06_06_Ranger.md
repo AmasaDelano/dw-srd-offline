@@ -32,7 +32,7 @@ Your base damage is d8.
 
 ## Starting Moves
 
-Choose a race and gain the corresponding move:
+**Choose a race and gain the corresponding move:**
 
 ### Elf
 
@@ -42,7 +42,7 @@ When you undertake a perilous journey through wilderness whatever job you take y
 
 When you make camp in a dungeon or city, you don’t need to consume a ration.
 
-You start with these moves:
+**You start with these moves:**
 
 ### Hunt and Track \(WIS\)
 
@@ -63,7 +63,7 @@ When you **attack a defenseless or surprised enemy at range**, you can choose to
 
 You have a supernatural connection with a loyal animal. You can’t talk to it per se but it always acts as you wish it to. Name your animal companion and choose a species:
 
-Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pigeon, rat, mule
+*Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pigeon, rat, mule*
 
 Choose a base:
 
@@ -74,15 +74,15 @@ Choose a base:
 
 Choose as many strengths as its ferocity:
 
-Fast, burly, huge, calm, adaptable, quick reflexes, tireless, camouflage, ferocious, intimidating, keen senses, stealthy
+*Fast, burly, huge, calm, adaptable, quick reflexes, tireless, camouflage, ferocious, intimidating, keen senses, stealthy*
 
 Your animal companion is trained to fight humanoids. Choose as many additional trainings as its cunning:
 
-Hunt, search, scout, guard, fight monsters, perform, labor, travel
+*Hunt, search, scout, guard, fight monsters, perform, labor, travel*
 
 Choose as many weaknesses as its instinct:
 
-Flighty, savage, slow, broken, frightening, forgetful, stubborn, lame
+*Flighty, savage, slow, broken, frightening, forgetful, stubborn, lame*
 
 ### Command
 
@@ -97,7 +97,7 @@ When you work with your animal companion on something it’s trained in…
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 
 ### Chaotic
 
@@ -137,13 +137,13 @@ I have guided \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ before and they owe me for it.
 
 ## Advanced Moves
 
-You may take this move only if it is your first advancement.
+**You may take this move only if it is your first advancement.**
 
 ### Half-Elven
 
 Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the elf starting move if you took the human one at character creation or vice versa.
 
-When you gain a level from 2-5, choose from these moves.
+**When you gain a level from 2-5, choose from these moves.**
 
 ### Wild Empathy
 
@@ -185,23 +185,23 @@ When you undertake a perilous journey you can take two roles. You make a separat
 
 When you **set the watch for the night**, everyone takes +1 to take watch.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
+**When you gain a level from 6-10, choose from these moves or the level 2-5 moves.**
 
 ### Wild Speech
 
-Replaces: Wild Empathy
+*Replaces: Wild Empathy*
 
 You can speak with and understand any non-magical, non-planar creature.
 
 ### Hunter’s Prey
 
-Replaces: Familiar Prey
+*Replaces: Familiar Prey*
 
 When you spout lore about a monster you use WIS instead of INT. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.
 
 ### Viper’s Fangs
 
-Replaces: Viper’s Strike
+*Replaces: Viper’s Strike*
 
 When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.
 
@@ -211,13 +211,13 @@ When you know your target’s weakest point your arrows have 2 piercing.
 
 ### Strider
 
-Replaces: Follow Me
+*Replaces: Follow Me*
 
 When you undertake a perilous journey you can take two roles. Roll twice and use the better result for both roles.
 
 ### A Safer Place
 
-Replaces: A Safe Place
+*Replaces: A Safe Place*
 
 When you set the watch for the night everyone takes +1 to take watch. After a night in camp when you set the watch everyone takes +1 forward.
 
@@ -232,4 +232,3 @@ Choose a move from another class. So long as you are working with your animal co
 ### Unnatural Ally
 
 Your animal companion is a monster, not an animal. Describe it. Give it +2 ferocity and +1 instinct, plus a new training.
-
