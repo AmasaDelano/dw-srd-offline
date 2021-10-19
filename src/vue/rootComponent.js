@@ -64,6 +64,15 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
     licenseAndAttribution.subsections.length = 0;
     bookmarks.push(licenseAndAttribution);
 
+    function addSelectOnTap() {
+        document.querySelectorAll(".main-content p, .main-content li, h1, h2, h3, h4").forEach(function (element) {
+            element.addEventListener("click", function () {
+                const selection = window.getSelection();
+                selection.setBaseAndExtent(element, 0, element, 1);
+            })
+        });
+    }
+
     part.get = function get() {
         return {
             template: "#main",
@@ -73,6 +82,9 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
                     markdown: license,
                     sidebar: false
                 };
+            },
+            mounted: function () {
+                addSelectOnTap();
             },
             methods: {
                 toggleSidebar: function () {
@@ -89,6 +101,8 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
                     hashLink.setAttribute("href", "#" + id);
                     setTimeout(function () {
                         hashLink.click();
+
+                        addSelectOnTap();
                     }, 1);
                 }
             }
