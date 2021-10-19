@@ -80,9 +80,7 @@ Weapons have tags to indicate the range at which they are useful. Dungeon World 
 
 The stats below are for typical items. There are, of course, variations. A dull long sword might be -1 damage instead while a masterwork dagger could be +1 damage. Consider the following to be stats for typical weapons of their type—a specific weapon could have different tags to represent its features.
 
-### Ragged Bow
-
-*near, 15 coins, 2 weight*
+**Ragged Bow** *near, 15 coins, 2 weight*
 **Fine Bow** *near, far, 60 coins, 2 weight*
 **Hunter’s Bow** *near, far, 100 coins, 1 weight*
 **Crossbow** *near, +1 damage, reload, 35 coins, 3 weight*

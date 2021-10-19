@@ -7,7 +7,7 @@ This web app can be accessed offline on your mobile app, providing you with the 
 To access this Dungeon World SRD offline on your mobile device:
 
 1. Open this website in the latest version of Firefox mobile or Chrome mobile.
-2. In the menu, tap "Install" (Firefox) or "Add To Home Screen" (Chrome).
+2. In the menu, tap "Install," "Install App," "Install As App," or "Add To Home Screen" (language varies by browser and version).
 3. The website should be installed on your phone as an offline app. If it doesn't work, please open an issue <a href="https://github.com/AmasaDelano/dw-srd-offline/issues" target="_blank">here</a>.
 
 ## License

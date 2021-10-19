@@ -80,12 +80,13 @@ const advancedDelving = require("../markdown/14_Advanced_Delving.md").default;
                     console.log("Selected: " + id);
         
                     this.markdown = markdown;
+                    this.sidebar = false;
                     
                     const hashLink = document.createElement("a");
                     hashLink.setAttribute("href", "#" + id);
-                    hashLink.click();
-        
-                    this.sidebar = false;
+                    setTimeout(function () {
+                        hashLink.click();
+                    }, 1);
                 }
             }
         };
