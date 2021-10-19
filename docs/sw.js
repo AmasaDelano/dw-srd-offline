@@ -8,7 +8,7 @@ var URLS = [
     "/dw-srd-offline/index.html",
     "/dw-srd-offline/bundle.js",
     "/dw-srd-offline/styles.css",
-    "/dw-srd-offline/logo.png"
+    "/dw-srd-offline/logo.png?v=2"
 ];
 
 self.addEventListener("fetch", function (e) {
