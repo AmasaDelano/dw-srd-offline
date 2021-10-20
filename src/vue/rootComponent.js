@@ -25,9 +25,15 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
 
                     selectedNode = element;
                 }
-            })
+                return true;
+            });
         });
     }
+
+    window.oncontextmenu = function(event) {
+        console.log("Context menu");
+        alert("Context menu");
+    };
 
     part.get = function get() {
         return {
