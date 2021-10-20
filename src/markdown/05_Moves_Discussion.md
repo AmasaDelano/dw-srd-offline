@@ -300,7 +300,7 @@ In some cases when you state what you want you may include a possible promise fo
 > GM: “Enough being coy\!” he looks at you cold and angry. “You and I both know you murdered my hired man. Give me the ring, swear to silence, and I’ll do as you ask.”
 >
 > Leena: I toss it to him. We can always dig up more dirt on this scumbag later.
->
+
 > Pendrell: This is the place where One Eye plays cards, right? Okay, I walk up to the guard. “Hey there fellows, care to, you know, open the door and let me in?” and I’m being all suave and cool so they’ll do it. Parley is roll+CHA right?
 >
 > GM: Not so fast, slick. All you’ve done is say what you want. The big smelly one on the right steps in front of you and says, “Sorry sir, private game,” all bored-sounding. It’s like he hates his job and wishes he were someplace else. If you want to parley, you’re going to need some leverage. Maybe a bribe?
