@@ -32,7 +32,6 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
 
     window.oncontextmenu = function(event) {
         console.log("Context menu");
-        alert("Context menu");
     };
 
     part.get = function get() {
