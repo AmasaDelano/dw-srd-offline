@@ -22,7 +22,7 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
                     const range = document.createRange();
                     range.selectNodeContents(element);
                     selection.addRange(range);
-                    element.dispatchEvent(new CustomEvent("contextmenu"));
+                    element.focus();
 
                     selectedNode = element;
                 }
