@@ -21,7 +21,8 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
                 } else {
                     const range = document.createRange();
                     range.selectNodeContents(element);
-                    selection.addRange(range); 
+                    selection.addRange(range);
+                    element.dispatchEvent(new CustomEvent("contextmenu"));
 
                     selectedNode = element;
                 }
