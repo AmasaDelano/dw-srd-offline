@@ -9,6 +9,7 @@ const example = require("../markdown/03_Example.md").default;
 const characterCreation = require("../markdown/04_Character_Creation.md").default;
 const moves = require("../markdown/05_Moves_Discussion.md").default;
 
+const barbarian = require("../markdown/06_00_Barbarian.md").default;
 const bard = require("../markdown/06_01_Bard.md").default;
 const cleric = require("../markdown/06_02_Cleric.md").default;
 const druid = require("../markdown/06_03_Druid.md").default;
@@ -43,7 +44,7 @@ const npcs = require("../markdown/appendices/17_NPCs.md").default;
 
 (function (part) {
 
-    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, bard, cleric, druid, fighter, paladin, ranger, thief, wizard, gm, firstSession, fronts, world, monsters, caverns, swamp, undead, woods, hordes, experiments, depths, planes, folk, equipment, advancedDelving, teaching, conversion, npcs];
+    const markdowns = [license, introduction, playingTheGame, example, characterCreation, moves, barbarian, bard, cleric, druid, fighter, paladin, ranger, thief, wizard, gm, firstSession, fronts, world, monsters, caverns, swamp, undead, woods, hordes, experiments, depths, planes, folk, equipment, advancedDelving, teaching, conversion, npcs];
 
     const headingRegex = new RegExp("<h([1234]) id=\"(.+?)\">(.+?)<\/h[1234]>", "g");
 
