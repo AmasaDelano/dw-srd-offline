@@ -365,7 +365,7 @@ Hirelings do what you tell them to, so long as it isn’t obviously dangerous, d
 
 ---
 
-## Making a Hireling
+### Making a Hireling
 
 Hirelings are easy to make on the fly. When someone enters the players’ employ note down their name and what cost they’ve agreed to as well as any skills they may have.
 
