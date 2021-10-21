@@ -14,7 +14,9 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
         document.querySelectorAll(".main-content p, .main-content li, h1, h2, h3, h4").forEach(function (element) {
             element.addEventListener("click", function () {
                 const selection = window.getSelection();
-                selection.removeAllRanges();
+                if (selection.rangeCount > 0) {
+                    selection.removeAllRanges();
+                }
 
                 if (element === selectedNode) {
                     selectedNode = undefined;
