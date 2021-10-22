@@ -14,9 +14,7 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
         document.querySelectorAll(".main-content p, .main-content li, h1, h2, h3, h4").forEach(function (element) {
             element.addEventListener("click", function () {
                 const selection = window.getSelection();
-                if (selection.rangeCount > 0) {
-                    selection.removeAllRanges();
-                }
+                selection.removeAllRanges();
 
                 if (element === selectedNode) {
                     selectedNode = undefined;
@@ -24,7 +22,6 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
                     const range = document.createRange();
                     range.selectNodeContents(element);
                     selection.addRange(range);
-                    element.focus();
 
                     selectedNode = element;
                 }
@@ -32,10 +29,6 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
             });
         });
     }
-
-    window.oncontextmenu = function(event) {
-        console.log("Context menu");
-    };
 
     part.get = function get() {
         return {

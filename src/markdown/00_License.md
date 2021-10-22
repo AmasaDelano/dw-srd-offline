@@ -1,6 +1,6 @@
 # Dungeon World SRD Offline
 
-This web app can be accessed offline on your mobile app, providing you with the Dungeon World rules wherever you are!
+This web app can be accessed offline as a mobile app, providing you with the Dungeon World rules wherever you are!
 
 ## Installation
 
