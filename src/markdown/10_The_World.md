@@ -287,4 +287,3 @@ When **two steadings both attack each other** their forces meet somewhere betwee
 ### Other Updates
 
 The conditions above detail the most basic of interactions between steadings, of course the presence of your fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players’ actions and your fronts’ effects on the world.
-

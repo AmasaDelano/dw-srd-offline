@@ -182,7 +182,7 @@ Write up something short to remind you just what this danger is about, something
 Sometimes a danger will suggest a move that isn’t covered by any existing ones. You can write custom moves to fill the gaps or to add the right effects for the danger. They can be player moves or GM moves, as you see fit. Of course, if you’re writing a player move, keep your hands off the dice and mind the basic structure of a move. A 10+ is a complete success, while a 7–9 is a partial success. On a miss, maybe the custom move does something specific, or maybe not—maybe you just get to make a move or work towards fulfilling a grim portent. The formatting of these moves varies from move to move.
 
 > For the Opening of the White Gate, I just know some fool PC is going to end up in the light that spills from the gate, so I’m writing a move to show what might occur.
-> 
+>
 > When you **stand in the presence of the Light From Beyond**, roll+WIS: ✴On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. ✴On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. ✴On a miss, thou art weighed in the balance and art found wanting.
 
 ## Grim Portents
@@ -194,7 +194,7 @@ More often than not grim portents have a logical order. The orcs tear down the c
 Think of your grim portents as possible moves waiting in the wings. When the time is right, unleash them on the world.
 
 > I’ve chosen a few grim portents for my new front.
-> 
+>
 > - The College sends an expedition to the Gate
 > - The Key is discovered
 > - The First Trumpet sounds
@@ -233,7 +233,7 @@ Playing to find out is one of the biggest rewards of playing Dungeon World. You�
 Once you have your stakes your front is ready to play.
 
 > My stakes questions include, as tailored to my group:
-> 
+>
 > - Who will be the champion?
 > - How will Lux respond to the Light From Beyond?
 > - Will the College be able to recruit Avon?
@@ -266,6 +266,7 @@ When dealing with multiple adventure fronts the players are likely to prioritize
 
 **Impulse:** to absorb those in power, to grow
 
+<!-- markdownlint-disable no-duplicate-heading -->
 ##### Grim Portents
 
 - The College sends an expedition to the Gate

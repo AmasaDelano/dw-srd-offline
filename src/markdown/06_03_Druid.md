@@ -175,7 +175,7 @@ When you shapeshift choose a stat: you take +1 ongoing to rolls using that stat 
 When you **call on the primal spirits of fire, water, earth or air to perform a task for you** roll+WIS. ✴On a 10+ choose two. ✴On a 7–9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.
 
 - The effect you desire comes to pass
-- You avoid paying nature’s price 
+- You avoid paying nature’s price
 - You retain control
 
 ### Balance

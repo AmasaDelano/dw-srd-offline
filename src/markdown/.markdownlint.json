@@ -1,0 +1,7 @@
+{
+    "no-emphasis-as-heading": false,
+    "line-length": false,
+    "no-blanks-blockquote": false,
+    "no-trailing-punctuation": false,
+    "single-title": false
+}

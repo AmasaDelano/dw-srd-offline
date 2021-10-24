@@ -284,10 +284,14 @@ The easiest place to modify monsters is in the questions used to create them. Th
 
 A more interesting change is to change the questions being asked to present a different view of monsters. The views built into the questions imply that monsters are more or less like other creatures: they can be of many alignments and won’t always be opposed to the player characters. If you want to make Dungeon World about hunting down evil monsters and destroying them, you might rewrite some of the questions, maybe adding this:
 
-### The monster is Evil through and through. Choose one to reflect why it’s evil:
+---
+
+**The monster is Evil through and through. Choose one to reflect why it’s evil:**
 
 - It’s an intrusion of the Old Ones Beyond the Walls: Planar, +5 damage
 - It’s a product of the Old Wizards of the Red Tower: Construct, +5 HP
 - It’s from The Time Before Man: Primordial, +5 damage, +5 HP
+
+---
 
 When creating new monster questions you can either reinterpret existing monsters by answering the questions for them again or only use the new questions for new monsters. If the new questions you add or change are key to your vision of Dungeon World it’s best to redo all the monsters you use; if the question only applies to a specific kind of monster anyway you can just use it for new monsters.

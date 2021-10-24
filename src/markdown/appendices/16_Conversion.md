@@ -80,4 +80,3 @@ This step is entirely optional, but can be really useful when running through an
 > - A rusted old key in the shape of a lizard
 
 These sorts of moves can give the players the sense that their characters are tied to the situation at hand, and open the door for more lines of question- and-answer play that can fill the game world with life. Think about the fronts, the things they endanger, the riches they might protect and their impact on the world. Let these intro moves flow from that understanding, creating a great kickstart to the adventure.
-

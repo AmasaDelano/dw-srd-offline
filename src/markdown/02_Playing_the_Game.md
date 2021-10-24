@@ -375,11 +375,11 @@ A hireling’s stats, especially their loyalty, may change during play as a refl
 
 ### Costs
 
-- The Thrill of Victory 
-- Money 
-- Uncovered Knowledge 
-- Fame and Glory 
-- Debauchery 
+- The Thrill of Victory
+- Money
+- Uncovered Knowledge
+- Fame and Glory
+- Debauchery
 - Good Accomplished
 
 ### Skills
@@ -495,4 +495,3 @@ Keep in mind that not all power is physical. Even if you could take down King Ar
 You’re an adventurer; you’re a big deal. But there are other forces at work too. The world will go on without you. If you don’t deal with the goblin infestation in the sewers maybe someone else will. Or maybe the goblins will take over the city. Do you really want to find out?
 
 A world in motion is a world waiting to be changed. Your choices of who to kill \(or not\), where to go, what bargains to make—it all changes the world you’re in. Changing the world requires acting on it—making moves and pursuing treasure and exploration. Change comes in many forms, including XP used to level up and gain new abilities. Those abilities are then used to go back out into the world and stir things up. It’s a cycle of change and growth for both you and the world you live in.
-

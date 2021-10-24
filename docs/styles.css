@@ -131,6 +131,7 @@ p, li, blockquote {
 
 table {
     border-collapse: collapse;
+    margin: 0 auto;
 }
 
 td, th {
