@@ -1,10 +1,12 @@
 // Author: Alex Leone
 
-"use strict";
-
-const bookmarks = require("../markdownBookmarks").bookmarks;
+/*jslint this*/
+/*global window, document*/
 
 (function (part) {
+    "use strict";
+
+    const bookmarks = require("../markdownBookmarks").bookmarks;
 
     let selectedNode = undefined;
 
@@ -52,10 +54,10 @@ const bookmarks = require("../markdownBookmarks").bookmarks;
                     console.log("Selected: " + id);
 
                     const changing = markdown !== this.markdown;
-        
+
                     this.markdown = markdown;
                     this.sidebar = false;
-                    
+
                     const hashLink = document.createElement("a");
                     hashLink.setAttribute("href", "#" + id);
                     setTimeout(function () {

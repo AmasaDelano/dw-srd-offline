@@ -1,8 +1,13 @@
 // Author: Alex Leone
 
-"use strict";
+/*jslint this*/
+/*property
+    $emit, computed, emits, expand, expanded, exports, get, hasSubsections,
+    length, methods, props, section, select, subsections, template
+*/
 
 (function (part) {
+    "use strict";
 
     part.get = function get() {
         return {

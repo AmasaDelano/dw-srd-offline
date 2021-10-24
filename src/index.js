@@ -1,15 +1,21 @@
 // Author: Alex Leone
 
-"use script";
+/*global navigator*/
 
-if ("serviceWorker" in navigator) {
-    navigator.serviceWorker
-    .register("/dw-srd-offline/sw.js", {scope: "/dw-srd-offline/"})
-    .then(() => { console.log("Service Worker Registered"); });
-}
+(function () {
+    "use script";
 
-const Vue = require("vue/dist/vue.esm-bundler.js");
-const rootComponent = require("./vue/rootComponent").get();
-const bookmarkComponent = require("./vue/bookmarkComponent").get();
+    if (Object.keys(navigator).indexOf("serviceWorker") !== -1) {
+        navigator.serviceWorker
+            .register("/dw-srd-offline/sw.js", {scope: "/dw-srd-offline/"})
+            .then(function () {
+                console.log("Service Worker Registered");
+            });
+    }
 
-Vue.createApp(rootComponent).component("dw-bookmark", bookmarkComponent).mount("#root");
+    const Vue = require("vue/dist/vue.esm-bundler.js");
+    const rootComponent = require("./vue/rootComponent").get();
+    const bookmarkComponent = require("./vue/bookmarkComponent").get();
+
+    Vue.createApp(rootComponent).component("dw-bookmark", bookmarkComponent).mount("#root");
+}());
