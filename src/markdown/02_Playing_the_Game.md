@@ -282,8 +282,8 @@ When you write a new bond choose another character. Pick something relevant to t
 > Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.
 >
 > Xotoq won the Bone-and-Whispers Axe through trickery\! It will be mine, I swear it.
->
-> These new bonds are just like the old ones—use them, resolve them, replace them.
+
+These new bonds are just like the old ones—use them, resolve them, replace them.
 
 ## Alignment
 
