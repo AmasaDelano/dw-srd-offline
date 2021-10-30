@@ -129,6 +129,10 @@ p, li, blockquote {
     color: #111;
 }
 
+.main-content ul {
+    padding-left: 20px;
+}
+
 table {
     border-collapse: collapse;
     margin: 0 auto;
