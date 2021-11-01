@@ -28,7 +28,7 @@ html {
     position: fixed;
     padding-right: 0;
     left: 0;
-    top: 50px;
+    top: 65px;
     height: calc(100vh - 50px);
     background-color: #eee;
     max-width: 100vw;
@@ -73,6 +73,7 @@ html {
 .left-bar ul {
     padding-left: 0;
     padding-right: 0;
+    margin: 0;
     list-style: none;
 }
 
@@ -94,6 +95,10 @@ html {
 
 .main-content {
     margin-top: 80px;
+}
+
+.main-content ul {
+    padding-left: 20px;
 }
 
 /* https://css-tricks.com/hash-tag-links-padding/ */
@@ -127,10 +132,6 @@ p, li, blockquote {
     line-height: 1.5em;
     font-family: serif;
     color: #111;
-}
-
-.main-content ul {
-    padding-left: 20px;
 }
 
 table {

@@ -1,7 +1,7 @@
 // https://gist.github.com/kosamari/7c5d1e8449b2fbc97d372675f16b566e
 
 var APP_PREFIX = "DWSRDOFFLINE_";     // Identifier for this app (this needs to be consistent across every cache update)
-var VERSION = "10";            // Version of the off-line cache (change this value everytime you want to update cache)
+var VERSION = "11";            // Version of the off-line cache (change this value everytime you want to update cache)
 var CACHE_NAME = APP_PREFIX + VERSION;
 var URLS = [                            
     "/dw-srd-offline/",

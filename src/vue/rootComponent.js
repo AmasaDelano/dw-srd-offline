@@ -1,7 +1,9 @@
 // Author: Alex Leone
 
 /*jslint this*/
-/*global window, document*/
+/*global window, document, localForage*/
+
+const localForage = require("localforage");
 
 (function (part) {
     "use strict";
@@ -32,17 +34,42 @@
         });
     }
 
+    function scrollToId(id, changingMarkdown) {
+        const hashLink = document.createElement("a");
+        hashLink.setAttribute("href", "#" + id);
+        setTimeout(function () {
+            hashLink.click();
+
+            if (changingMarkdown) {
+                addSelectOnTap();
+            }
+        }, 1);
+    }
+
     part.get = function get() {
         return {
             template: "#main",
             data: function () {
                 return {
                     sections: bookmarks,
-                    markdown: bookmarks[bookmarks.length - 1].markdown,
+                    markdown: null,
                     sidebar: false
                 };
             },
             mounted: function () {
+                const that = this;
+
+                const defaultMarkdown = bookmarks[bookmarks.length - 1].markdown;
+                localForage.getItem("markdown").then(function (item) {
+                    that.markdown = item || defaultMarkdown;
+                }).catch(function () {
+                    that.markdown = defaultMarkdown;
+                });
+
+                localForage.getItem("id").then(function (item) {
+                    scrollToId(item);
+                });
+
                 addSelectOnTap();
             },
             methods: {
@@ -57,16 +84,10 @@
 
                     this.markdown = markdown;
                     this.sidebar = false;
+                    localForage.setItem("markdown", markdown);
+                    localForage.setItem("id", id);
 
-                    const hashLink = document.createElement("a");
-                    hashLink.setAttribute("href", "#" + id);
-                    setTimeout(function () {
-                        hashLink.click();
-
-                        if (changing) {
-                            addSelectOnTap();
-                        }
-                    }, 1);
+                    scrollToId(id, changing);
                 }
             }
         };

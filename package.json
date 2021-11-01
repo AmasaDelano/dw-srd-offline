@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "html-loader": "^2.1.2",
+    "localforage": "^1.10.0",
     "markdown-loader": "^6.0.0",
     "vue": "^3.2.20"
   },
