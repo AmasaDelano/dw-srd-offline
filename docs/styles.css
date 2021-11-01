@@ -1,3 +1,7 @@
+:root {
+    --top-bar-height: 65px;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -28,8 +32,8 @@ html {
     position: fixed;
     padding-right: 0;
     left: 0;
-    top: 65px;
-    height: calc(100vh - 65px);
+    top: var(--top-bar-height);
+    height: calc(100vh - var(--top-bar-height));
     background-color: #eee;
     max-width: 100vw;
     overflow-y: scroll;
@@ -80,8 +84,8 @@ html {
 
 .top-bar {
     position: fixed;
-    height: 65px;
-    line-height: 65px;
+    height: var(--top-bar-height);
+    line-height: var(--top-bar-height);
     top: 0;
     left: 0;
     background-color: #eee;
@@ -94,7 +98,7 @@ html {
 }
 
 .main-content {
-    margin-top: 80px;
+    margin-top: calc(var(--top-bar-height) + 15px);
 }
 
 .main-content ul {
@@ -108,8 +112,8 @@ h3::before,
 h4::before { 
     display: block; 
     content: " "; 
-    margin-top: -80px; 
-    height: 80px; 
+    margin-top: calc(-15px - var(--top-bar-height)); 
+    height: calc(var(--top-bar-height) + 15px);
     visibility: hidden; 
     pointer-events: none;
 }
