@@ -12,7 +12,7 @@ For the purposes of these multiclass moves the cleric’s commune and cast a spe
 
 When you first select a multiclass move that grants you the ability to cast spells you prepare and cast spells as if you had one level in the casting class. Every additional time you level up you increase the level you prepare and cast spells at by one.
 
-When Ajax gains 3rd level he takes Multiclass Dabbler to get Commune and Cast a Spell from the Cleric class. He casts and prepares spells like a first level Cleric: first level spells and rotes only, a total of 2 levels of spells prepared. When he later gains 4th level, he prepares and casts spells as a second level Cleric.
+> When Ajax gains 3rd level he takes Multiclass Dabbler to get Commune and Cast a Spell from the Cleric class. He casts and prepares spells like a first level Cleric: first level spells and rotes only, a total of 2 levels of spells prepared. When he later gains 4th level, he prepares and casts spells as a second level Cleric.
 
 # Bard Moves
 
@@ -120,7 +120,7 @@ The exact effects depend on the circumstances. A goblin orkaster’s spell might
 
 ## Fireball
 
-“Nearby”depends on context; a few paces or so in an open space, considerably more in an enclosed room. Be careful\!.
+“Nearby” depends on context; a few paces or so in an open space, considerably more in an enclosed room. Be careful\!.
 
 ## Polymorph
 
@@ -129,4 +129,3 @@ In some cases the GM may choose the last option more than once to list each unex
 ## Summon Monster
 
 The exact type of monster you get is up to the GM, based on your choices. If you want a non-reckless swimming creature you might get a water elemental, a 1d8 damage +2 STR creature might be a barbed devil. Whatever the creature is you still get to play it.
-

@@ -109,6 +109,10 @@ Choose a look:
 - Blood-stained
 - Sinister
 
+---
+
+The base description you choose is just a description. Choosing a spear doesn’t give you Close range, for example. You could choose a spear as the description, then Hand as the range. Your spear is something special, or your technique with it is different, just describe why your weapon has the tags you’ve chosen.
+
 ## Alignment
 
 **Choose an alignment:**
@@ -163,9 +167,17 @@ When you deal damage, deal +1d4 damage.
 
 When you **consult the spirits that reside within your signature weapon**, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. ✴On a 10+, the GM will give you good detail. ✴On a 7-9, the GM will give you an impression.
 
+---
+
+The exact nature of the spirits \(and therefore what knowledge they can offer to you\) is up to you and the GM to decide. Maybe they’re dead ancestors, echoes of people you’ve slain, or a minor demon. Up to you.
+
 ### Armor Mastery
 
 When you **make your armor take the brunt of damage dealt to you**, the damage is negated but you must reduce the armor value of your armor or shield \(your choice\) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
+
+---
+
+Armor and shields that are reduced to 0 armor are effectively destroyed. You’ll pretty much be paying for a new one anyway, so you might as well drop them and haul out some gold instead.
 
 ### Improved Weapon
 

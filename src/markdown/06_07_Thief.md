@@ -65,6 +65,10 @@ When you **attack a surprised or defenseless enemy with a melee weapon**, you ca
 - You create an advantage, +1 forward to you or an ally acting on it
 - Reduce their armor by 1 until they repair it
 
+---
+
+Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you’re fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it’s until they’ve had time to heal up \(or protect the wound you left\).
+
 ### Flexible Morals
 
 When someone tries to detect your alignment you can tell them any alignment you like.
@@ -77,6 +81,10 @@ You’ve mastered the care and use of a poison. Choose a poison from the list be
 - Bloodweed \(touch\): The target deals -1d4 damage ongoing until cured
 - Goldenroot \(applied\): The target treats the next creature they see as a trusted ally, until proved otherwise
 - Serpent’s Tears \(touch\): Anyone dealing damage to the target rolls twice and takes the better result.
+
+---
+
+In order to make more doses of your chosen poison you need to be reasonably able to gather the required materials. If you’re locked up at the top of a tower you’re not going to be able to get the materials you need.
 
 ## Alignment
 
@@ -138,6 +146,10 @@ When you use trap expert you always get +1 hold, even on a 6-.
 ### Wealth and Taste
 
 When you **make a show of flashing around your most valuable possession**, choose someone present. They will do anything they can to obtain your item or one like it.
+
+---
+
+In order to use this move it’s really got to be your most valuable possession. It’s the honest value you place on it that draws others, no lies.
 
 ### Shoot First
 
@@ -209,6 +221,10 @@ When you’re in too deep and need a way out, name your escape route and roll+DE
 ### Disguise
 
 When you have time and materials you can create a disguise that will fool anyone into thinking you’re another creature of about the same size and shape. Your actions can give you away but your appearance won’t.
+
+---
+
+Your disguise covers your appearance and any basics like accents and limps. It doesn’t grant you any special knowledge of the target, so if someone asks you what your favorite color is you’d better think fast. Defying danger with CHA is a common part of maintaining a disguise.
 
 ### Heist
 

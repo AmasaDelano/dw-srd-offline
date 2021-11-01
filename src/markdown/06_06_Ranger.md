@@ -95,6 +95,10 @@ When you work with your animal companion on something it’s trained in…
 - …and you parley, add its cunning to your roll
 - …and someone interferes with you, add its instinct to their roll
 
+---
+
+Your bonuses only apply when your animal is doing something it’s trained in. An animal not trained to attack monsters won’t be any help when you’re attacking an otyugh.
+
 ## Alignment
 
 **Choose an alignment:**

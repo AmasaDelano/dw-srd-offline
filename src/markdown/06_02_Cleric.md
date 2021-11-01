@@ -78,6 +78,10 @@ When you **spend uninterrupted time \(an hour or so\) in quiet communion with yo
 - Are granted new spells of your choice whose total levels don’t exceed your own level+1, and none of which is a higher level than your own level.
 - Prepare all of your rotes, which never count against your limit.
 
+---
+
+If you like you can prepare the same spell more than once.
+
 ### Cast a Spell
 
 When you **unleash a spell granted to you by your deity**, roll+WIS. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:
@@ -268,6 +272,10 @@ Food or water you hold in your hands while you cast this spell is consecrated by
 
 The symbol of your deity appears before you and gestures towards the direction or course of action your deity would have you take then disappears. The message is through gesture only; your communication through this spell is severely limited.
 
+---
+
+It’s up to the creativity of your deity \(and the GM\) to communicate as much as possible through the motions and gestures of your deity’s symbol. You don’t get visions or a voice from heaven, just some visual cue of what your deity would have you do \(even if it’s not in your best interest\).
+
 ### Level 1 Spells
 
 #### Bless
@@ -300,6 +308,12 @@ Choose a target you can see and a nearby object. The target is afraid of the obj
 
 The weapon you hold while casting does +1d4 damage until you dismiss this spell. While this spell is ongoing you take -1 to cast a spell.
 
+---
+
+Casting Magic Weapon on the same weapon again has no effect. No matter how many times you cast it on the same weapon it’s still just magic +1d4 damage.
+
+That said, even a weak enchantment is nothing to be scoffed at. Having a magic weapon may give you an advantage against some of the stranger beasts of Dungeon World, ghosts and the like. The exact effects depend on the monster and circumstances, so make the most of it.
+
 #### Sanctuary
 
 *Level 1*
@@ -326,6 +340,10 @@ You invoke a hungry spirit to possess a recently-dead body and serve you. This c
 - It does not appear obviously dead, at least for a day or two.
 
 The zombie lasts until it is destroyed by taking damage in excess of its HP, or until you end the spell. While this spell is ongoing you take -1 to cast a spell.
+
+---
+
+Treating the zombie as your character means you make moves with its stats based on the fiction, just like always. Unless its brain is functioning on its own, the zombie can’t do much besides follow the last order it was given, so you’d better stay close. Even if its brain works it’s still bound to follow your orders.
 
 #### Cure Moderate Wounds
 

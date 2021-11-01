@@ -60,6 +60,10 @@ When you **spend uninterrupted time \(an hour or so\) in quiet contemplation of 
 - Prepare new spells of your choice from your spellbook whose total levels don’t exceed your own level+1.
 - Prepare your cantrips which never count against your limit.
 
+---
+
+You can prepare the same spell more than once if you like.
+
 ### Cast a Spell \(INT\)
 
 When you **release a spell you’ve prepared**, roll+INT. ✴On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. ✴On a 7-9, the spell is cast, but choose one:
@@ -143,6 +147,12 @@ When you cast a spell, on a 10+ you have the option of choosing from the 7-9 lis
 
 - The spell’s effects are maximized
 - The spell’s targets are doubled
+
+---
+
+Maximizing the effects of a spell is simple for spells that involve a roll: a maximized Magic Missile does 8 damage. In other cases it’s down to the circumstances. A maximized Identify might result in far more information than expected. If there’s no clear way to maximize it you can’t choose that option.
+
+Likewise for doubling the targets. If the spell doesn’t have targets you can’t choose to double them.
 
 ### Fount of Knowledge
 
@@ -309,6 +319,10 @@ Walk a wide circle as you cast this spell. Until you prepare spells again your m
 
 Choose a spell or magic effect in your presence: this spell rips it apart. Lesser spells are ended, powerful magic is just reduced or dampened so long as you are nearby.
 
+---
+
+The exact effects depend on the circumstances. A goblin orkaster’s spell might just be ended, while a deity’s consecration is probably just dimmed. The GM will tell you the likely effects of Dispelling a given effect before you cast.
+
 #### Visions Through Time
 
 *Level 3, Divination*
@@ -320,6 +334,10 @@ Cast this spell and gaze into a reflective surface to see into the depths of tim
 *Level 3, Evocation*
 
 You evoke a mighty ball of flame that envelops your target and everyone nearby, inflicting 2d6 damage which ignores armor.
+
+---
+
+“Nearby” depends on context; a few paces or so in an open space, considerably more in an enclosed room. Be careful\!.
 
 #### Mimic
 
@@ -363,6 +381,10 @@ Your touch reshapes a creature entirely, they stay in the form you craft until y
 - The creature’s mind will be altered as well
 - The form has an unintended benefit or weakness
 
+---
+
+In some cases the GM may choose the last option more than once to list each unexpected benefit or weakness.
+
 #### Summon Monster
 
 *Level 5, Summoning Ongoing*
@@ -376,6 +398,10 @@ A monster appears and aids you as best it can. Treat it as your character, but w
 - It has some useful adaptation
 
 The GM will tell you the type of monster you get based on the traits you select. The creature remains on this plane until it dies or you dismiss it. While the spell is ongoing you take -1 to cast a spell.
+
+---
+
+The exact type of monster you get is up to the GM, based on your choices. If you want a non-reckless swimming creature you might get a water elemental, a 1d8 damage +2 STR creature might be a barbed devil. Whatever the creature is you still get to play it.
 
 ### Level 7 Spells
 

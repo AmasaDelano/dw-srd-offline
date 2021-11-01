@@ -172,6 +172,10 @@ When you heal an ally, you heal +1d8 damage.
 
 When you **see divine magic as it happens**, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.
 
+---
+
+Your +1 forward applies to anything you do based on your knowledge of the spell’s effects: defying it, defending against it, using it to your advantage, etc.
+
 ### Holy Smite
 
 *Replaces: Smite*
