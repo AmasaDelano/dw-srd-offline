@@ -150,7 +150,7 @@ When you cast a spell, on a 10+ you have the option of choosing from the 7-9 lis
 
 ---
 
-Maximizing the effects of a spell is simple for spells that involve a roll: a maximized Magic Missile does 8 damage. In other cases it’s down to the circumstances. A maximized Identify might result in far more information than expected. If there’s no clear way to maximize it you can’t choose that option.
+Maximizing the effects of a spell is simple for spells that involve a roll: a maximized Magic Missile does 8 damage. In other cases it’s down to the circumstances. If there’s no clear way to maximize it you can’t choose that option.
 
 Likewise for doubling the targets. If the spell doesn’t have targets you can’t choose to double them.
 
